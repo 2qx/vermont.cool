@@ -15,7 +15,7 @@ However, there is **hope** on the horizon ...
 
 **Vermonters are increasingly using an old plant supplement to help themselves go nicotine free!**
 
-It's been used for centuries throughout the world, found in various plants. In America, tribes of the Omaha would harvest pods of what we call the Kentucky Coffee Tree for medicinal use.
+It's been used for centuries throughout the world, found in various plants. In America, tribes of the Omaha would harvest cytisine from the pods of the Kentucky Coffee Tree for medicinal use.
 
 Today it's called *cytisine* (sold as [Tabex®](https://tabexsopharma.com/) and [Cravv®](https://www.zpharm.ca/)), it's been widely known about since World War II.
 
@@ -124,19 +124,13 @@ Importation is technically illegal, but as policy, the FDA does NOT pursue legal
 
 In 2025, a 25-day course costs about $50-60. Some users prefer to use two 25 day courses.
 
-## Wait, I have a yard ... 
-
-Seeds are available on etsy and ebay. 
-
-Cytisus is a fantastic flowering shrub, recognizable thanks to its flush of upright, blooming branches.
-
-It grows to be 2-6 feet tall.
-
-More info about caring for [Cytisus broom shrubs HERE.](https://www.nature-and-garden.com/gardening/cytisus.html)
-
 ## Wait, I got a couple acres ... 
 
+Experienced growers may be interested in developing a cytisus operation as an enterprise.
+
 Learn more about the [State of the Art in Cytisine HERE](https://www.sciencedirect.com/science/article/pii/S075333222400091X)
+
+Note that some of the species in the genus are invasive. 
 
 ## How can we get more people to see this? 
 
