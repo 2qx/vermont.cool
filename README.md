@@ -1,2 +1,1 @@
-# vermont • cool
-Resources for a happier healthier Vermont. 
+Vigilante Guerrilla Public Health for Green Moutain Girls & Boys. 
