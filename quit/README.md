@@ -137,9 +137,9 @@ Learn more about the [State of the Art in Cytisine HERE](https://www.sciencedire
 
 The stable URL for this document is https://vermont.cool/quit
 
-<img width=400px src="./qr.svg">
+<img width=400px src="./vermont.cool.quit.svg">
 
-This sticker design can be used wherever you find smokers.
+[This sticker design](./vermont.cool.quit.svg) can be used wherever you find smokers.
 
 ## Want to know more?
 
@@ -150,6 +150,9 @@ This sticker design can be used wherever you find smokers.
 
 [Opinion: Unavailability of varenicline: a global tragedy for the fight against the tobacco epidemic - The Lancet, 2023](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(23)00184-4/fulltext)
 
+## Disclaimers
+
+This is not medical advice. Consult a licensed medical professional if you have questions about your health.
 
 ## No copyright
 
