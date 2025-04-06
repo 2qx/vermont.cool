@@ -1,4 +1,4 @@
-
+# It’s quitin’ time
 
 Roughly [13% of Vermonters](https://www.healthvermont.gov/stats/surveillance-reporting-topic/tobacco-data) smoke cigarettes. Vermonters spend about [a million dollars](https://www.healthvermont.gov/sites/default/files/document/hpdp-tcp-vt-tobacco-sales-brief.pdf) every week on cigarettes alone. 
 
@@ -23,7 +23,7 @@ Cytisine comes from the cytisus plant, a hearty shrub that grows in zones 5-8.
 - **Legislators** are fretting about a potential drop in revenue from taxes on tobacco sales. 
 
 - **Doctors, hospital administrators and health insurance CEOs** are already considering cutting back on vacations. 
-- Working Vermonters are finding **thousands of dollars** showing up im their kitchen table accounting and getting a new lease on their health. 
+- Working Vermonters are finding **thousands of dollars** showing up in their kitchen table accounting and getting a new lease on their health. 
 - Even **non-smokers are excited** about potentially seeing their insurance premiums fall for once. 
 
 *What's all fuss about?* 
