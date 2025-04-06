@@ -1,5 +1,8 @@
 # It’s quitin’ time
 
+
+> Green Mountain girls and boys **never** give up their location with a glowing dot.
+
 Roughly [13% of Vermonters](https://www.healthvermont.gov/stats/surveillance-reporting-topic/tobacco-data) smoke cigarettes. Vermonters spend about [a million dollars](https://www.healthvermont.gov/sites/default/files/document/hpdp-tcp-vt-tobacco-sales-brief.pdf) every week on cigarettes alone. 
 
 Approximately 1,000 Vermont adults die from a smoking-related illness each year. Smoking-related illness is a significant driver of healthcare costs, which impacts insurance premiums, compensation packages and finally all Vermonters' tax rates.
@@ -12,11 +15,13 @@ However, there is **hope** on the horizon ...
 
 **Vermonters are increasingly using an old plant supplement to help themselves go nicotine free!**
 
-It's called *cytisine* (sold as [Tabex®](https://tabexsopharma.com/) and [Cravv®](https://www.zpharm.ca/)), it's been widely known about since World War II.
+It's been used for centuries throughout the world, found in various plants. In America, tribes of the Omaha would harvest pods of what we call the Kentucky Coffee Tree for medicinal use.
+
+Today it's called *cytisine* (sold as [Tabex®](https://tabexsopharma.com/) and [Cravv®](https://www.zpharm.ca/)), it's been widely known about since World War II.
 
 It can be purchased online from Europe and in person in Canada. 
 
-Cytisine comes from the cytisus plant, a hearty shrub that grows in zones 5-8.  
+Cytisine is found in the cytisus plant, a hearty shrub that grows in zones 5-8.  
 
 **EVERYONE is TALKING ABOUT IT!!**
 

@@ -1,3 +1,3 @@
-Vigilante Guerrilla Public Health for Green Mountain Girls & Boys. 
+Guerrilla public health for vigilante Green Mountain girls & boys. 
 
 [It's quitin' time](./quit/)
