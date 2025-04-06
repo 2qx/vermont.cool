@@ -1,6 +1,18 @@
+
+
+Roughly [13% of Vermonters](https://www.healthvermont.gov/stats/surveillance-reporting-topic/tobacco-data) smoke cigarettes. Vermonters spend about [a million dollars](https://www.healthvermont.gov/sites/default/files/document/hpdp-tcp-vt-tobacco-sales-brief.pdf) every week on cigarettes alone. 
+
+Approximately 1,000 Vermont adults die from a smoking-related illness each year. Smoking-related illness is a significant driver of healthcare costs, which impacts insurance premiums, compensation packages and finally all Vermonters' tax rates.
+
+Roughly 44% of smokers attempted to quit each year. However, quitting nicotine is difficult and some approved actually treatments are NOT treatments for nicotine addiction, but simply a less harmful method of taking the same drug.
+
+***
+
+However, there is hope on the horizon ... 
+
 **Vermonters are increasingly using an old plant supplement to help themselves go nicotine free!**
 
-It's called cytisine ([Tabex®](https://tabexsopharma.com/) or [Cravv®](https://www.zpharm.ca/)), it's been widely known about since World War II.
+It's called *cytisine* ([Tabex®](https://tabexsopharma.com/) or [Cravv®](https://www.zpharm.ca/)), it's been widely known about since World War II.
 
 It can be purchased online from Europe and in person in Canada. 
 
@@ -12,7 +24,7 @@ Cytisine comes from the cytisus plant, a hearty shrub that grows in zones 5-8.
 
 - **Doctors, hospital administrators and health insurance CEOs** are already considering cutting back on vacations. 
 - Working Vermonters are finding **thousands of dollars** showing up im their kitchen table accounting and getting a new lease on their health. 
-- Even **non-smokers are excited** about potentially seeing their insurance premiums fall for once.
+- Even **non-smokers are excited** about potentially seeing their insurance premiums fall for once. 
 
 *What's all fuss about?* 
 
