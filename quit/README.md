@@ -1,7 +1,6 @@
 # It’s quitin’ time
 
-
-> Green Mountain girls and boys **never** give up their location with a glowing dot.
+> Green Mountain girls and boys **don't** suck on a glowing nicotine sticks.
 
 Roughly [13% of Vermonters](https://www.healthvermont.gov/stats/surveillance-reporting-topic/tobacco-data) smoke cigarettes. Vermonters spend about [a million dollars](https://www.healthvermont.gov/sites/default/files/document/hpdp-tcp-vt-tobacco-sales-brief.pdf) every week on cigarettes alone. 
 
@@ -48,6 +47,8 @@ This FAQ is intended to answer some of your most pressing questions about this *
 
 ## Does cytisine work? 
 
+Well...
+
 The pharmaceutical giant Pfizer used what was widely known about cytisine to create a synthetic derivative called *varenicline*, which was then patented in various markets. 
 
 In 2006, varenicline was granted priority review by the FDA, which expedited the review process to six months instead of the normal ten months.
@@ -66,7 +67,7 @@ However, because cytisine is not an approved treatment for nicotine cessation in
 
 ## Can I buy cytisine in the US? 
 
-NO. 
+**NO.**
 
 The Food and Drug Administration has NOT approved cytisine as a treatment for quitting nicotine.
 
@@ -96,7 +97,7 @@ You can even ask **your compounding pharmacist** if they are able to compound a 
 
 ## Do other countries have cytisine? 
 
-Yes. MANY.  
+**Yes.** MANY.  
 
 Cytisine is approved for nicotine cessation in Canada, the United Kingdom and New Zealand.
 
@@ -104,11 +105,13 @@ Cytisine is branded as [Tabex®](https://tabexsopharma.com/) and widely availabl
 
 ## Can I buy cytisine online?
 
-Yes. Numerous websites sell [Tabex®](https://tabexsopharma.com/) online from Eastern Europe and will ship to the Untied States.
+**Yes.** 
+
+Numerous websites sell [Tabex®](https://tabexsopharma.com/) online from Eastern Europe and will ship to the Untied States.
 
 ## Can I physically buy cytisine OUTSIDE the US?
 
-Yes. 
+**Yes.** 
 
 - Cytisine is branded as [Cravv®](https://www.zpharm.ca/) in Canada.
 - [Cravv®](https://www.zpharm.ca/) is available **over the counter** [throughout Ontario](https://www.zpharm.ca/locator/).
@@ -122,7 +125,9 @@ Importation is technically illegal, but as policy, the FDA does NOT pursue legal
 
 ## How much is a course?
 
-In 2025, a 25-day course costs about $50-60. Some users prefer to use two 25 day courses.
+About $50-60.
+
+In 2025, a 25-day course costs $50-60 before tariffs. Some users prefer to use two 25 day courses, which would leave them with extra if only one course was needed.
 
 ## Wait, I got a couple acres ... 
 
