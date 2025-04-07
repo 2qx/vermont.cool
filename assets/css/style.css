@@ -4938,7 +4938,7 @@
   .markdown-body img {
     max-width:100%;
     box-sizing:content-box;
-    background-color:#fff
+    background-color:transparent
   }
   .markdown-body img[align=right] {
     padding-left:20px
