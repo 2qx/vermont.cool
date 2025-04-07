@@ -8,7 +8,22 @@ Approximately 1,000 Vermont adults die from a smoking-related illness each year.
 
 Roughly 44% of smokers attempt to quit each year. However, quitting nicotine can be very difficult. Some of the approved treatments aren't really treatments for nicotine addiction, but simply a less harmful method of taking the same drug.
 
-***
+- [There is hope.](#there-is-hope)
+- [What is Cytisine?](#what-is-cytisine)
+- [Could I buy cytisine online from the US?](#could-i-buy-cytisine-online-from-the-us)
+- [How much is it?](#how-much-is-it)
+- [Can I physically buy cytisine OUTSIDE the US?](#can-i-physically-buy-cytisine-outside-the-us)
+- [Can I buy cytisine in the US?](#can-i-buy-cytisine-in-the-us)
+- [Can I ask my primary care provider about cytisine?](#can-i-ask-my-primary-care-provider-about-cytisine)
+- [Do other countries have cytisine?](#do-other-countries-have-cytisine)
+- [Does cytisine really work?](#does-cytisine-really-work)
+- [Wait, I got a couple acres ...](#wait-i-got-a-couple-acres-)
+- [How can we get more people to see this?](#how-can-we-get-more-people-to-see-this)
+- [Want to know more?](#want-to-know-more)
+
+
+
+## There is hope.
 
 However, there is **hope** on the horizon ... 
 
@@ -31,6 +46,7 @@ It can be purchased online from Europe and in person in Canada.
 *What's all fuss about?* 
 
 This FAQ is intended to answer some of your most pressing questions about this *old* natural remedy. 
+
 
 ## What is Cytisine?
 
@@ -158,10 +174,10 @@ New stickers may also be submitted in the comments of [a new Issue](https://gith
 
 [Opinion: Unavailability of varenicline: a global tragedy for the fight against the tobacco epidemic - The Lancet, 2023](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(23)00184-4/fulltext)
 
-## Disclaimers
+### Disclaimers
 
 This is not medical advice. Consult a licensed medical professional if you have questions about your health.
 
-## No copyright
+### No copyright
 
 This document is placed in the public domain.
