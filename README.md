@@ -1,4 +1,4 @@
-Guerrilla public health for Green Mountain girls & boys. 
+Guerrilla public health for *all* Green Mountain folks. 
 
 Notices:
 
