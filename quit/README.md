@@ -8,24 +8,22 @@ Approximately 1,000 Vermont adults die from a smoking-related illness each year.
 
 Roughly 44% of smokers attempt to quit each year. However, quitting nicotine can be very difficult. Some of the approved treatments aren't really treatments for nicotine addiction, but simply a less harmful method of taking the same drug.
 
-- [There is hope.](#there-is-hope)
-- [What is Cytisine?](#what-is-cytisine)
-- [Could I buy cytisine online from the US?](#could-i-buy-cytisine-online-from-the-us)
-- [How much is it?](#how-much-is-it)
-- [Can I physically buy cytisine OUTSIDE the US?](#can-i-physically-buy-cytisine-outside-the-us)
-- [Can I buy cytisine in the US?](#can-i-buy-cytisine-in-the-us)
-- [Can I ask my primary care provider about cytisine?](#can-i-ask-my-primary-care-provider-about-cytisine)
-- [Do other countries have cytisine?](#do-other-countries-have-cytisine)
-- [Does cytisine really work?](#does-cytisine-really-work)
-- [Wait, I got a couple acres ...](#wait-i-got-a-couple-acres-)
-- [How can we get more people to see this?](#how-can-we-get-more-people-to-see-this)
-- [Want to know more?](#want-to-know-more)
++ [There is hope.](#there-is-hope)
++ [What is Cytisine?](#what-is-cytisine)
++ [Could I buy cytisine online from the US?](#could-i-buy-cytisine-online-from-the-us)
++ [How much is it?](#how-much-is-it)
++ [Can I physically buy cytisine OUTSIDE the US?](#can-i-physically-buy-cytisine-outside-the-us)
++ [Can I buy cytisine in the US?](#can-i-buy-cytisine-in-the-us)
++ [Should I ask my primary care provider about cytisine?](#should-i-ask-my-primary-care-provider-about-cytisine)
++ [Do other countries have cytisine?](#do-other-countries-have-cytisine)
++ [Does cytisine really work?](#does-cytisine-really-work)
++ [Wait, I got a couple acres ...](#wait-i-got-a-couple-acres-)
++ [How can we get more people to see this?](#how-can-we-get-more-people-to-see-this)
++ [Want to know more?](#want-to-know-more)
 
 
 
 ## There is hope.
-
-However, there is **hope** on the horizon ... 
 
 **Vermonters are increasingly using an old plant supplement to help themselves go nicotine free!**
 
@@ -41,7 +39,7 @@ It can be purchased online from Europe and in person in Canada.
 
 - **Doctors, hospital administrators and health insurance CEOs** are already considering cutting back on vacations. 
 - Working Vermonters are finding **thousands of dollars** showing up in their kitchen table accounting and getting a new lease on their health. 
-- Even **non-smokers are excited** about potentially seeing their insurance premiums fall for once. 
+- Even **non-smokers are excited** about potentially seeing their insurance premiums and property taxes fall for once. 
 
 *What's all fuss about?* 
 
@@ -69,6 +67,8 @@ This FAQ is intended to answer some of your most pressing questions about this *
 About $50-60.
 
 In 2025, a 25-day course costs $50-60 before tariffs. Some users prefer to use two 25 day courses, which would leave them with extra if only one course was needed.
+
+If a pack a day smoker uses Tabex to quits by day 10, they should see a total return on their investment by day 14. The savings from the $50 investment will continue at $12-14 per day in perpetuity―saving roughly $5k annually.
 
 ## Can I physically buy cytisine OUTSIDE the US?
 
@@ -100,23 +100,23 @@ In August 2024, researchers estimated that making cytisine available immediately
 
 So, ask your doctor if more **life-years®** are right for you, TODAY.
 
-## Can I ask my primary care provider about cytisine? 
+## Should I ask my primary care provider about cytisine? 
 
-**YES, ABSOLUTELY.**
+**YES**, absolutely.
 
-You **SHOULD** ask your primary care provider about cytisine.
+You SHOULD ask your primary care provider if cytisine is right for you.
 
-You **SHOULD** ask your union representative if cytisine will be free in your union's plan. 
+You SHOULD ask your union representative if cytisine will be free in your union's plan. 
 
-You **SHOULD** ask Vermont HealthConnect which plans will offer "free" cytisine. 
+You SHOULD ask Vermont HealthConnect which plans will offer "free" cytisine. 
 
-**Ask your pharmacist** if they sell Tabex® or Cravv®, at each visit. You do not have to be a smoker to ask. 
+Ask at the pharamacy if Tabex® or Cravv® is OTC at each visit. You do not have to be a smoker to ask. 
 
-You can even ask **your compounding pharmacist** if they are able to compound a 25-day course of cytisine.
+You can even ask your compounding pharmacist, if they are able to compound a 25-day course of cytisine.
 
 ## Do other countries have cytisine? 
 
-**Yes.** MANY.  
+**Yes,** of course.  
 
 Cytisine is approved for nicotine cessation in Canada, the United Kingdom and New Zealand.
 
