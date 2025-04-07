@@ -1,6 +1,6 @@
 # It’s quitin’ time
 
-> Green Mountain girls and boys won't be caught dead sucking a glowing nicotine stick.
+> Green Mountain folks won't be caught dead sucking a glowing nicotine stick.
 
 Roughly [13% of Vermonters](https://www.healthvermont.gov/stats/surveillance-reporting-topic/tobacco-data) smoke cigarettes. Vermonters spend about [a million dollars](https://www.healthvermont.gov/sites/default/files/document/hpdp-tcp-vt-tobacco-sales-brief.pdf) every week on cigarettes alone. 
 
@@ -146,7 +146,6 @@ Pfizer expanded the scope of the recall three more times with additional lots af
 
 However, because cytisine is not an approved treatment for nicotine cessation in the United States, we DO NOT and CANNOT LEGALLY directly answer the question of whether cytisine is effective for smoking cession, because such claims cannot be made, in the interest of public safety and science—in the US.
 
-
 ## Wait, I got a couple acres ... 
 
 Experienced growers may be interested in developing a cytisus operation as an enterprise.
@@ -163,7 +162,11 @@ The stable URL for this document is https://vermont.cool/quit
 
 <img width=400px src="./vermont.cool.quit.svg">
 
-[This sticker design](./vermont.cool.quit.svg) can be used wherever you find smokers.
+[These round sticker designs](./vermont.cool.quit.svg) can be used wherever you find smokers.
+
+<img width=400px src="./vermont.cool.vistaprint.3_1_sheet.svg">
+
+[Sheet stickers](./vermont.cool.vistaprint.3_1_sheet.svg) can fit nicely in notches of smokers' outposts.
 
 Pull requests welcome. 
 
