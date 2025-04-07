@@ -1694,7 +1694,7 @@
        id="rect2383" />
   </defs>
   <circle
-     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.05541223"
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,8;stroke-dashoffset:0"
      id="path2294"
      cx="719.26123"
      cy="719.26123"

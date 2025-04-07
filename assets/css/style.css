@@ -1,7 +1,10 @@
+@import "";
+body{
+    background:seashell
+}
 h1{
     font-variant-caps: small-caps;
 }
-body{background:seashell}
 a{
     color: forestgreen;
     text-decoration: none;
