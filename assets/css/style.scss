@@ -3,8 +3,10 @@
 ---
 
 @import "{{ site.theme }}";
-.main-content {
+body{
     background-color: seashell;
+
+}
     h1{
         font-variant-caps: small-caps;
     }
@@ -15,6 +17,5 @@
     a:visited {
         color: deeppink;
     }
-}
 
 
