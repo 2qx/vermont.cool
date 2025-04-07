@@ -11,7 +11,7 @@ Roughly 44% of smokers attempt to quit each year. However, quitting nicotine can
 + [There is hope.](#there-is-hope)
 + [What is Cytisine?](#what-is-cytisine)
 + [Could I buy cytisine online from the US?](#could-i-buy-cytisine-online-from-the-us)
-+ [How much is it?](#how-much-is-it)
++ [Is it really expensive?](#is-it-really-expensive)
 + [Can I physically buy cytisine OUTSIDE the US?](#can-i-physically-buy-cytisine-outside-the-us)
 + [Can I buy cytisine in the US?](#can-i-buy-cytisine-in-the-us)
 + [Should I ask my primary care provider about cytisine?](#should-i-ask-my-primary-care-provider-about-cytisine)
@@ -27,7 +27,9 @@ Roughly 44% of smokers attempt to quit each year. However, quitting nicotine can
 
 **Vermonters are increasingly using an old plant supplement to help themselves go nicotine free!**
 
-It's been used for centuries throughout the world, found in various plants. In America, tribes of the Omaha would harvest cytisine from the pods of the Kentucky Coffee Tree for medicinal use.
+It's been used for centuries throughout the world, found in various plants. 
+
+In early America, for example, tribes of the Omaha harvested cytisine from the pods of the kentucky coffee tree for medicinal use.
 
 Today it's called *cytisine* (sold as [Tabex®](https://tabexsopharma.com/) and [Cravv®](https://www.zpharm.ca/)), it's been widely known about since World War II.
 
@@ -49,7 +51,7 @@ This FAQ is intended to answer some of your most pressing questions about this *
 ## What is Cytisine?
 
 - Cytisine is a plant supplement that acts as a mild nicotine inhibitor.
-- Cytisine has been in use since 1964 and is currently available in 18 countries.
+- Cytisine has been used to quit smoking since 1964 and is currently available in 18 countries.
   
 - It comes from [Cytisus](https://en.wikipedia.org/wiki/Cytisus), a genus of flowering plants in the family Fabaceae, native to open sites (typically scrub and heathland) in Europe, western Asia and North Africa.
 - It is not a manufactured drug.
@@ -62,13 +64,15 @@ This FAQ is intended to answer some of your most pressing questions about this *
 
 **Yes.** Numerous websites sell [Tabex® manufactured by Sopharma](https://tabexsopharma.com/) online from Eastern Europe and will ship to the Untied States.
 
-## How much is it?
+## Is it really expensive?
 
-About $50-60.
+It's $50.
 
-In 2025, a 25-day course costs $50-60 before tariffs. Some users prefer to use two 25 day courses, which would leave them with extra if only one course was needed.
+[Tabex®](https://tabexsopharma.com/) and [Cravv®](https://www.zpharm.ca/) both sell for about $50 for a 25 day course. 
 
-If a pack a day smoker uses Tabex to quits by day 10, they should see a total return on their investment by day 14. The savings from the $50 investment will continue at $12-14 per day in perpetuity―saving roughly $5k annually.
+Some users prefer to have two 25 day courses, which would leave them with extra, if they only used one.
+
+If a pack-a-day smoker uses Tabex to quit by day 10 of a course, they should see a total return on their investment by day 14. The savings from the $50 investment will continue at $12-14 per day in perpetuity―savings of roughly $5k annually.
 
 ## Can I physically buy cytisine OUTSIDE the US?
 
