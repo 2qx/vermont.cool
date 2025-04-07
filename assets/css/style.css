@@ -1,1 +1,11 @@
-a{color:#1b7427;}
+h1{
+    font-variant-caps: small-caps;
+}
+
+a{
+    color: forestgreen;
+    text-decoration: none;
+}
+a:visited {
+    color: hotpink;
+}
