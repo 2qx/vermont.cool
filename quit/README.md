@@ -1,5 +1,3 @@
-<meta property="og:image" content="./cytisus.jpg">
-
 
 # It’s quittin' time
 

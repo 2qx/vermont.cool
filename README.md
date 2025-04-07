@@ -1,5 +1,3 @@
-<meta property="og:image" content="/quit/cytisus.jpg">
-
 
 Guerrilla public health for ALL Green Mountain folks. 
 
