@@ -1,4 +1,4 @@
-# It’s quitin’ time
+# It’s quittin' time
 
 > Green Mountain folks won't be caught dead sucking a glowing nicotine stick.
 
