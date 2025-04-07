@@ -1694,7 +1694,7 @@
        id="rect2383" />
   </defs>
   <circle
-     style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2,8;stroke-dashoffset:0"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:2, 8;stroke-dashoffset:0"
      id="path2294"
      cx="719.26123"
      cy="719.26123"
@@ -1706,7 +1706,8 @@
      width="1000"
      clip-path="url('#_xd2v8irw-clip-path-background-color')"
      fill="#ffffff"
-     id="rect2272" />
+     id="rect2272"
+     style="stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke:none" />
   <rect
      x="21"
      y="21"
