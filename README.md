@@ -1,4 +1,4 @@
-Guerrilla public health for *all* Green Mountain folks. 
+Guerrilla public health for ALL Green Mountain folks. 
 
 Notices:
 
