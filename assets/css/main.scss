@@ -1,15 +1,20 @@
+
 ---
 ---
+
 @import "{{ site.theme }}";
+.main-content {
+    background-color: seashell;
+    h1{
+        font-variant-caps: small-caps;
+    }
+    a{
+        color: forestgreen;
+        text-decoration: none;
+    }
+    a:visited {
+        color: deeppink;
+    }
+}
 
 
-h1{
-    font-variant-caps: small-caps;
-}
-a{
-    color: forestgreen;
-    text-decoration: none;
-}
-a:visited {
-    color: deeppink;
-}
