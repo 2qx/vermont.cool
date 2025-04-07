@@ -1,12 +1,12 @@
 # It’s quitin’ time
 
-> Green Mountain girls and boys **don't** suck on a glowing nicotine sticks.
+> Green Mountain girls and boys won't be caught dead sucking a glowing nicotine stick.
 
 Roughly [13% of Vermonters](https://www.healthvermont.gov/stats/surveillance-reporting-topic/tobacco-data) smoke cigarettes. Vermonters spend about [a million dollars](https://www.healthvermont.gov/sites/default/files/document/hpdp-tcp-vt-tobacco-sales-brief.pdf) every week on cigarettes alone. 
 
 Approximately 1,000 Vermont adults die from a smoking-related illness each year. Smoking-related illness is a significant driver of healthcare costs, which impacts insurance premiums, compensation packages and finally all Vermonters' tax rates.
 
-Roughly 44% of smokers attempted to quit each year. However, quitting nicotine can be very difficult. Some of the approved treatments aren't *really* treatments for nicotine addiction, but simply a less harmful method of taking the same drug.
+Roughly 44% of smokers attempt to quit each year. However, quitting nicotine can be very difficult. Some of the approved treatments aren't really treatments for nicotine addiction, but simply a less harmful method of taking the same drug.
 
 ***
 
@@ -18,9 +18,7 @@ It's been used for centuries throughout the world, found in various plants. In A
 
 Today it's called *cytisine* (sold as [Tabex®](https://tabexsopharma.com/) and [Cravv®](https://www.zpharm.ca/)), it's been widely known about since World War II.
 
-It can be purchased online from Europe and in person in Canada. 
-
-Cytisine is found in the cytisus plant, a hearty shrub that grows in zones 5-8.  
+It can be purchased online from Europe and in person in Canada.   
 
 **EVERYONE is TALKING ABOUT IT!!**
 
@@ -45,25 +43,30 @@ This FAQ is intended to answer some of your most pressing questions about this *
 
 <img src="./cytisus.jpg">
 
-## Does cytisine work? 
 
-Well...
+## Could I buy cytisine online from the US?
 
-The pharmaceutical giant Pfizer used what was widely known about cytisine to create a synthetic derivative called *varenicline*, which was then patented in various markets. 
+**Yes.** Numerous websites sell [Tabex® manufactured by Sopharma](https://tabexsopharma.com/) online from Eastern Europe and will ship to the Untied States.
 
-In 2006, varenicline was granted priority review by the FDA, which expedited the review process to six months instead of the normal ten months.
+## How much is it?
 
-The synthetic cousin was marketed as Chantix in the US, and Champix abroad. It retailed in the United States at roughly ten times the cost of the plant-based supplement from other countries. It was one of Pfizer's top 250 most lucrative medicines. 
+About $50-60.
 
-In July 2021, Pfizer drug was recalled due to a impurity associated with a potential increased cancer risk in humans. 
+In 2025, a 25-day course costs $50-60 before tariffs. Some users prefer to use two 25 day courses, which would leave them with extra if only one course was needed.
 
-Within two weeks, the FDA [issued a notice](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-and-press-announcements-nitrosamine-varenicline-chantix) that it would allow distribution of tablets with unsafe levels of a known carcinogen (nitrosamine) to the public, stating publicly: 
+## Can I physically buy cytisine OUTSIDE the US?
 
-> The health benefits of stopping smoking outweigh the cancer risk from the nitrosamine impurity in varenicline.
+**Yes.** 
 
-Pfizer expanded the scope of the recall three more times with additional lots after finding more impurities. The FDA reiterated guidance that patients should keep taking medicine with impunities associated with a potential increased cancer risk in humans.
+- Cytisine is branded as [Cravv®](https://www.zpharm.ca/) in Canada.
+- [Cravv®](https://www.zpharm.ca/) is available **over the counter** [throughout Ontario](https://www.zpharm.ca/locator/).
 
-However, because cytisine is not an approved treatment for nicotine cessation in the United States, we DO NOT and CANNOT LEGALLY directly answer the question of whether cytisine is effective for smoking cession, because such claims cannot be made, in the interest of public safety and science—in the US.
+The nearest location to Vermont is the [Riverdale WholeHealth Pharmacy](https://wholehealthpharmacy.ca/store/riverdale-wholehealth-pharmacy/) in Cornwall Ontario:
+
+    Whole Health Pharmacy Cornwall
+    106 Second St W, Cornwall, ON K6J 1G5
+    
+Importation is technically illegal, but as policy, the FDA does NOT pursue legal action against individuals for the importation of plant supplements for personal use.
 
 ## Can I buy cytisine in the US? 
 
@@ -103,31 +106,26 @@ Cytisine is approved for nicotine cessation in Canada, the United Kingdom and Ne
 
 Cytisine is branded as [Tabex®](https://tabexsopharma.com/) and widely available in Europe. It's available in Cote d'Ivoire, Germany, Hungary, Italy, Spain, Sweden, Zambia, Azerbaijan, Bulgaria, and the Russian Federation. 
 
-## Can I buy cytisine online?
+## Does cytisine really work? 
 
-**Yes.** 
+Well...
 
-Numerous websites sell [Tabex®](https://tabexsopharma.com/) online from Eastern Europe and will ship to the Untied States.
+The pharmaceutical giant Pfizer used what was widely known about cytisine to create a synthetic derivative called *varenicline*, which was then patented in various markets. 
 
-## Can I physically buy cytisine OUTSIDE the US?
+In 2006, varenicline was granted priority review by the FDA, which expedited the review process to six months instead of the normal ten months.
 
-**Yes.** 
+The synthetic cousin was marketed as Chantix in the US, and Champix abroad. It retailed in the United States at roughly ten times the cost of the plant-based supplement from other countries. It was one of Pfizer's top 250 most lucrative medicines. 
 
-- Cytisine is branded as [Cravv®](https://www.zpharm.ca/) in Canada.
-- [Cravv®](https://www.zpharm.ca/) is available **over the counter** [throughout Ontario](https://www.zpharm.ca/locator/).
+In July 2021, Pfizer drug was recalled due to a impurity associated with a potential increased cancer risk in humans. 
 
-The nearest location to Vermont is the [Riverdale WholeHealth Pharmacy](https://wholehealthpharmacy.ca/store/riverdale-wholehealth-pharmacy/) in Cornwall Ontario:
+Within two weeks, the FDA [issued a notice](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-and-press-announcements-nitrosamine-varenicline-chantix) that it would allow distribution of tablets with unsafe levels of a known carcinogen (nitrosamine) to the public, stating publicly: 
 
-    Whole Health Pharmacy Cornwall
-    106 Second St W, Cornwall, ON K6J 1G5
-    
-Importation is technically illegal, but as policy, the FDA does NOT pursue legal action against individuals for the importation of plant supplements for personal use.
+> The health benefits of stopping smoking outweigh the cancer risk from the nitrosamine impurity in varenicline.
 
-## How much is a course?
+Pfizer expanded the scope of the recall three more times with additional lots after finding more impurities. The FDA reiterated guidance that patients should keep taking medicine with impunities associated with a potential increased cancer risk in humans.
 
-About $50-60.
+However, because cytisine is not an approved treatment for nicotine cessation in the United States, we DO NOT and CANNOT LEGALLY directly answer the question of whether cytisine is effective for smoking cession, because such claims cannot be made, in the interest of public safety and science—in the US.
 
-In 2025, a 25-day course costs $50-60 before tariffs. Some users prefer to use two 25 day courses, which would leave them with extra if only one course was needed.
 
 ## Wait, I got a couple acres ... 
 
@@ -137,6 +135,8 @@ Learn more about the [State of the Art in Cytisine HERE](https://www.sciencedire
 
 Note that some of the species in the genus are invasive. 
 
+Cytisine is found in the cytisus plant, a hearty shrub that can grow in zones 5-8.
+
 ## How can we get more people to see this? 
 
 The stable URL for this document is https://vermont.cool/quit
@@ -144,6 +144,10 @@ The stable URL for this document is https://vermont.cool/quit
 <img width=400px src="./vermont.cool.quit.svg">
 
 [This sticker design](./vermont.cool.quit.svg) can be used wherever you find smokers.
+
+Pull requests welcome. 
+
+New stickers may also be submitted in the comments of [a new Issue](https://github.com/2qx/vermont.cool/issues/new).
 
 ## Want to know more?
 

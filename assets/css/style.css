@@ -204,14 +204,15 @@
     background-color:seashell
   }
   a {
-    color:forestgreen;
+    color:green;
     text-decoration:none
   }
   a:visited {
-    color: deeppink;
+    color: forestgreen;
   }
   a:hover {
-    text-decoration:underline
+    text-decoration:underline;
+    color:deeppink
   }
   b,
   strong {

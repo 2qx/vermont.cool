@@ -1,5 +1,5 @@
 Guerrilla public health for vigilante Green Mountain girls & boys. 
 
-Topics:
+Notices:
 
-- [It's quitin' time](./quit/)
+1.  [It's quitin' time](./quit/)
