@@ -96,7 +96,7 @@ The Food and Drug Administration has NOT approved cytisine as a treatment for qu
 
 Cytisine is a plant that cannot be patented. The plant that it's derived from can grow in most of the US. 
 
-There *seeds* are available for sale in the US online.
+There are *seeds* are available for sale in the US online.
 
 But there is no legal way that a pharmaceutical giant can price gouge a captive market on a vertical demand curve for a plant supplement. 
 
