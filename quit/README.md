@@ -1,3 +1,6 @@
+<meta property="og:image" content="./cytisus.jpg">
+
+
 # It’s quittin' time
 
 > Green Mountain folks won't be caught dead sucking a glowing nicotine stick.
