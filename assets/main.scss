@@ -1,8 +1,6 @@
-***
-
-***
-
-@import "minima";
+---
+---
+@import "{{ site.theme }}";
 
 body{
     background:seashell
