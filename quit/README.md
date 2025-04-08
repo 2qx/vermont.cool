@@ -1,3 +1,7 @@
+---
+title:  "It's quittin' time"
+description: "Information on cytisine and quitting nicotine"
+---
 
 # It’s quittin' time
 
@@ -30,7 +34,7 @@ Roughly 44% of smokers attempt to quit each year. However, quitting nicotine can
 
 It's been used for centuries throughout the world, found in various plants. 
 
-In early America, for example, tribes of the Omaha harvested cytisine from the pods of the kentucky coffee tree for medicinal use.
+In early America, for example, tribes of the Omaha harvested cytisine from the pods of the Kentucky coffee tree for medicinal use.
 
 Today it's called *cytisine* (sold as [Tabex®](https://tabexsopharma.com/) and [Cravv®](https://www.zpharm.ca/)), it's been widely known about since World War II.
 
