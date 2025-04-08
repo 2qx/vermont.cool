@@ -1,7 +1,4 @@
----
-title:  "It's quittin' time"
-description: "Information on cytisine and quitting nicotine"
----
+
 
 # It’s quittin' time
 
