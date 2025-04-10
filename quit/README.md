@@ -100,8 +100,6 @@ Cytisine is a plant that cannot be patented. The plant that it's derived from ca
 
 There are *seeds* are available for sale in the US online.
 
-But there is no legal way that a pharmaceutical giant can price gouge a captive market on a vertical demand curve for a plant supplement. 
-
 In August 2024, researchers estimated that making cytisine available immediately could lead approximately 71 000 more people to quit smoking over 1 year and maintain long-term abstinence, producing more than **500,000 additional life-years.** Each additional year of delay in the availability of cytisine might reduce population-level life expectancy by [10,000 years.](https://jamanetwork.com/journals/jama-health-forum/fullarticle/2822687)
 
 So, ask your doctor if more **life-years®** are right for you, TODAY.
