@@ -76,7 +76,7 @@ VT Helplink is a free resource for Vermonters, providing confidential, non-judgm
 
 If you are unsure what treatment is right for you or a loved one, or if you would like help finding a treatment provider near you, contact VT Helplink.
 
-Visit [VTHelplink.org](https://vthelplink.org) or call [802-565-LINK (5465)](tel:8025655465) (toll-free [833-565-LINK](tel:8335655465) 24 hours a day, 365 days a year. 
+Visit [VTHelplink.org](https://vthelplink.org) or call [802-565-LINK (5465)](tel:8025655465) (toll-free [833-565-LINK](tel:8335655465)) 24 hours a day, 365 days a year. 
 
 
 
