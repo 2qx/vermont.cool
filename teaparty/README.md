@@ -78,7 +78,7 @@ If you are unsure what treatment is right for you or a loved one, or if you woul
 
 Visit [VTHelplink.org](https://vthelplink.org) or call [802-565-LINK (5465)](tel:8025655465) (toll-free [833-565-LINK](tel:8335655465)) 24 hours a day, 365 days a year. 
 
-**If you don't feel comfortable giving personal information or discussing your health, insurance or legal status with VT Helplink,** their website has a [search function](https://hub.vthelplink.org/spa_result) for local support services including *free* anonymous groups for **ALL**.
+**If you don't feel comfortable** giving personal information or discussing your health, insurance or legal status with VT Helplink, their website has a [search function](https://hub.vthelplink.org/spa_result) for local support services including *free* anonymous groups for **ALL**.
 
 ### No copyright
 
