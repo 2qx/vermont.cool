@@ -46,13 +46,21 @@ There are lots of places in Vermont to get a sugary latte, or a sugary tea bever
 
 There are of course a host of non-caffeinated spiked cocktails, or canned alcoholic beverages.
 
-## They're comin' for coffee beer NEXT!
-
-If Montpelier began to consider regulating, taxing or banning caffeinated alcoholic beverages, Bostonians may try to fear-monger local brewers and gain some allies, but micro-breweries simply aren't producing caffeinated coffee beer to be pounded by the case. 
+## They're comin' for coffee micro-brew NEXT!
 
 There are many reasons thick coffee beers from local micro-breweries aren't sold in 12-packs at gas stations, despite Vermont having more breweries per capita than any other state. 
 
+If Montpelier began to consider regulating, taxing or banning caffeinated alcoholic beverages, Bostonians may try to fear-monger local brewers and gain some allies, but micro-breweries simply aren't producing caffeinated coffee beer to be pounded by the case. 
 
+The spiked coffee market is being developed in Vermont by another Massachusets company. It's recently introduced a range of 5-6% ABV coffee and tea flavored malt beverages. The beverages come in 12 packs of 12 oz cans. Although a single shot of espresso has about 65 of caffeine, no beverage in this new line-up has more than 30mg of caffeine. Heavy drinkers could drink a 12-pack over the course of a day (360mg total), but not exceed the daily FDA recommended maximum intake of 400 mg of caffeine. 
+
+## What to know more?
+
+[Overview: The Side Effects of Mixing Alcohol and Caffeine](https://www.joinreframeapp.com/blog-post/the-side-effects-of-mixing-alcohol-and-caffeine)
+
+[Article: Alcohol and Caffeine: The Perfect Storm](https://pmc.ncbi.nlm.nih.gov/articles/PMC3621334/)
+
+[Article: Why Are Caffeinated Alcoholic Energy Drinks Dangerous?](https://www.scientificamerican.com/article/caffeine-alcohol-mix-dangerous/)
 
 ## Where's my sticker?
 
