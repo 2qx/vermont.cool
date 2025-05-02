@@ -1,4 +1,4 @@
-# Chuck that Boston tea habit. 
+# Chuck that Boston tea habit
 
 > Green Mountain folks won't drink malt brews laced with caffeine.
 
