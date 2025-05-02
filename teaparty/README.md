@@ -17,7 +17,7 @@ The Federal Trade Commission [warned](https://www.ftc.gov/news-events/news/press
 With spiked tea, the caffeine is a naturally occurring compound in the flavoring. So not only did the sale of the beverage remain legal, **there is no warning that mixing alcohol and caffeine is considered more dangerous**, nor is there even an indication on the label that the **alcoholic beverage even contains caffeine**.
 
 
-+ [A sweet trifecta for better drink sales.](#a-sweet-trifecta-for-better-drink-sales)
++ [A sweet trifecta for better drink sales](#a-sweet-trifecta-for-better-drink-sales)
 + [But caffeine doesn't effect me!](#but-caffeine-doesnt-effect-me)
 + [Just pick one drink at a time](#just-pick-one-drink-at-a-time)
 + [They're comin' for coffee micro-brew NEXT!](#theyre-comin-for-coffee-micro-brew-next)
@@ -27,7 +27,7 @@ With spiked tea, the caffeine is a naturally occurring compound in the flavoring
 
 <img src="./teaparty.png">
 
-## A sweet trifecta for better drink sales. 
+## A sweet trifecta for better drink sales
 
 Alcoholic beverages with added caffeine were banned in 2010, because they were so dangerous they were killing their customer base. 
 
