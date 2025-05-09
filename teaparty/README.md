@@ -1,3 +1,11 @@
+---
+title: "Beware spiked tea"
+image:
+  path: /teaparty/teaparty.png
+---
+
+
+
 # Chuck that Boston tea habit
 
 > Green Mountain folks won't drink malt brews laced with caffeine.
@@ -14,7 +22,7 @@ The Federal Trade Commission [warned](https://www.ftc.gov/news-events/news/press
 
 **Despite all that, in 2025, one of the most common beverages littering Vermont roadsides is a beverage with 30 milligrams of caffeine per 12 ounce can.** Meaning a six-pack contains roughly 180 milligrams, or about as much as a large cup of coffee.
 
-With spiked tea, the caffeine is a naturally occurring compound in the flavoring. So not only did the sale of the beverage remain legal, **there is no warning that mixing alcohol and caffeine is considered more dangerous**, nor is there even an indication on the label that the **alcoholic beverage even contains caffeine**.
+With tea flavored malt beverages, the caffeine is added with a naturally occurring compound in the flavoring. So not only did the sale of the beverage remain legal, **there is no warning that mixing alcohol and caffeine is considered more dangerous**, nor is there even an indication on the label that the **alcoholic beverage even contains caffeine**.
 
 
 + [A sweet trifecta for better drink sales](#a-sweet-trifecta-for-better-drink-sales)
@@ -37,9 +45,9 @@ While many drinkers can easily binge drink a case of hard beverages, if most peo
 
 However, in low dosages, caffeine is still a mildly addictive stimulant, so adding it to a sugary alcoholic beverage was a trifecta for increasing sales. 
 
-In addition, as a non-carbonated beverage, it's much easier to drink more quickly than a carbonated counterparts. 
+In contrast to a light beer or hard seltzer, a non-carbonated beverage can be easier to drink more quickly than a carbonated counterparts. Meaning habitual drinkers can easily become more addicted and drink more. 
 
-Habitual drinkers can easily become more addicted and drink more and there is NO WARNING or label on the can or box indicating that the product was a better optimized version of a banned cocktail. 
+Again, there is NO WARNING or label on the can or box indicating that the product was a better optimized version of a banned cocktail. 
 
 ## But caffeine doesn't effect me!
 
@@ -63,7 +71,7 @@ There are many reasons thick coffee beers from local micro-breweries aren't sold
 
 If Montpelier began to consider regulating, taxing or banning caffeinated alcoholic beverages, Bostonians may try to fear-monger local brewers and gain some allies, but micro-breweries simply aren't producing caffeinated coffee beer to be pounded by the case. 
 
-The spiked coffee market is being developed in Vermont by another Massachusets company. It's recently introduced a range of 5-6% ABV coffee and tea flavored malt beverages. The beverages come in 12 packs of 12 oz cans. Although a single shot of espresso has about 65 of caffeine, no beverage in this new line-up has more than 30mg of caffeine. Heavy drinkers could drink a 12-pack over the course of a day (360mg total), but not exceed the daily FDA recommended maximum intake of 400 mg of caffeine. 
+The spiked coffee market is being developed in Vermont by another Massachusets company. It's recently introduced a range of 5-6% ABV coffee and tea flavored malt beverages. The beverages come in 12 packs of 12 oz cans. Although a single shot of espresso has about 65 of caffeine, no beverage in this new line-up has more than 30mg of caffeine. Heavy drinkers could drink a 12-pack over the course of a day (360mg total), but not exceed the daily FDA recommended maximum intake of 400 mg of caffeine.
 
 ## What to know more?
 
