@@ -1,4 +1,7 @@
 ---
+title: Quit Nicotine
+description: A guide to accessing natural nicotine inhibitors.
+date: 2025-04-05
 permalink: /quit/
 image:
   path: /quit/cytisus.jpg
