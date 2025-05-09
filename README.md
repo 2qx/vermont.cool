@@ -1,5 +1,5 @@
 ---
-permalink: /teaparty/
+permalink: /
 image:
   path: /assets/vtcool_winter.webp
 ---
