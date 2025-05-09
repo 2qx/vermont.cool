@@ -2,7 +2,7 @@
 title: Beware of spiked tea
 permalink: /teaparty/
 image:
-  path: /teaparty/teaparty.png
+  path: /teaparty/teaparty.webp
 ---
 
 
@@ -34,7 +34,7 @@ With tea flavored malt beverages, the caffeine is added with a naturally occurri
 + [Where's my sticker?](#wheres-my-sticker)
 + [Disclaimers](#disclaimers)
 
-<img src="./teaparty.png">
+<img src="./teaparty.webp">
 
 ## A sweet trifecta for better drink sales
 
