@@ -1,11 +1,10 @@
 ---
 title: Beware of spiked tea
 description: Caffeine mixed with alcohol can be more dangerous to your health.
-layout: post
 date: 2025-05-09
 permalink: /teaparty/
 image:
-  path: /teaparty/teaparty.webp
+  path: /teaparty/teaparty.png
 ---
 
 
