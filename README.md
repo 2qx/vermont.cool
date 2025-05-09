@@ -1,3 +1,9 @@
+---
+permalink: /teaparty/
+image:
+  path: /assets/vtcool_winter.webp
+---
+
 
 Guerrilla public health for ALL Green Mountain folks. 
 

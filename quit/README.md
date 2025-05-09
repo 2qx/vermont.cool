@@ -1,3 +1,8 @@
+---
+permalink: /quit/
+image:
+  path: /quit/cytisus.jpg
+---
 
 
 # Quit Nicotine
