@@ -1,4 +1,5 @@
 ---
+permalink: /teaparty/
 image:
   path: /teaparty/teaparty.png
 ---
