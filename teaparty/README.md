@@ -1,5 +1,6 @@
 ---
 title: Beware of spiked tea
+date: 2025-05-09
 permalink: /teaparty/
 image:
   path: /teaparty/teaparty.webp
