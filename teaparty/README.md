@@ -1,5 +1,6 @@
 ---
 title: Beware of spiked tea
+layout: post
 date: 2025-05-09
 permalink: /teaparty/
 image:
