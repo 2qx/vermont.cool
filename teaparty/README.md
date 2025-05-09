@@ -1,5 +1,4 @@
 ---
-title: "Beware spiked tea"
 image:
   path: /teaparty/teaparty.png
 ---
