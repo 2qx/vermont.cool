@@ -1,5 +1,5 @@
 ---
-title: Beware of tea flavored malt beverages and spiked tea
+title: Beware of tea flavored malt beverages & spiked tea
 description: Caffeine mixed with alcohol can be more dangerous to your health.
 date: 2025-05-09
 permalink: /teaparty/
