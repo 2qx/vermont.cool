@@ -11,6 +11,8 @@ image:
 
 > Green Mountain folks don't drink hard brews laced with caffeine.
 
+<img src="./teaparty.webp">
+
 Young Vermonters are getting hooked on caffeinated alcoholic malt beverages & spiked tea. Many don't know what they're getting addicted to, or why they're drinking more. 
 
 Here's the dangerous cocktail to look out for:
@@ -39,7 +41,7 @@ If you've read this far, you know the secret; you're in the party.
 + [Where's my sticker?](#wheres-my-sticker)
 + [Disclaimers](#disclaimers)
 
-<img src="./teaparty.webp">
+
 
 ## History rhymes with "poor foko"
 
