@@ -25,7 +25,7 @@ Here's the dangerous cocktail to look out for:
 
 If this problem is on your roadside, it's in your oncoming traffic too―it will become reflected in your car insurance rates and rates for public emergency services.
 
-Moreover, if young Vermonters destroy their hearts, livers and pancreases because no one told them the little secret, it will affect what Vermonters pay collectively for healthcare in the decades to come. 
+Moreover, if young Vermonters destroy their livers, hearts and pancreases because no one told them the dirty little secret, it will affect what Vermonters pay collectively for healthcare in the decades to come. 
 
 Worst of all, we're losing some of our fellow Vermonters to addiction because some Bostonian billionaires were allowed to extract a couple bucks slinging boxes of brews at young folks with a slyly laced gimmick.
 
@@ -36,7 +36,7 @@ If you've read this far, you know the secret; you're in the party.
 + [But I don't drink](#but-i-dont-drink)
 + [But caffeine doesn't effect me](#but-caffeine-doesnt-effect-me)
 + [One drug at a time](#one-drug-at-a-time)
-+ [You're comin' for our micro-brews!](#youre-comin-for-our-micro-brews)
++ [You're comin' for your coffee micro-brews!](#youre-comin-for-your-coffee-micro-brews)
 + [What to know more?](#what-to-know-more)
 + [Where's my sticker?](#wheres-my-sticker)
 + [Disclaimers](#disclaimers)
@@ -69,7 +69,7 @@ Beverages with high-levels of caffeine were an obvious and self-limiting problem
 
 However, in low dosages, caffeine is still a mildly addictive stimulant. Adding it to sugary alcoholic beverages became a winning trifecta for increased beverage sales. Customers become better physically and psychologically hooked into a drinking habit, without knowing why.
 
-In contrast to a light beer or hard seltzer, a non-carbonated drinks went down smoother than their carbonated counterparts. 
+In contrast to a light beer or hard seltzer, non-carbonated drinks went down smoother than their carbonated counterparts. 
 
 With malted tea flavored beverages, there is NO WARNING or label on the can (or box) indicating that the product was a better optimized version of a banned cocktail. This secrecy was key. 
 
@@ -95,13 +95,13 @@ There's lots of caffeinated beverages people tend to drink in the morning, and l
 
 There are lots of places in Vermont to get a sugary latte, or a sugary tea beverage. Drinking one energy drink would be the equivalent of six tea beverages, and much cheaper. 
 
-There are of course a host of non-caffeinated spiked cocktails, or canned alcoholic beverages.
+There are, of course, a host of non-caffeinated spiked cocktails, or canned alcoholic beverages.
 
 Be wary of "ready to drink" (RTD) spiked cola cocktails (with 30 mg of caffeine per serving).
 
-## You're comin' for our micro-brews!
+## You're comin' for your coffee micro-brews!
 
-If Montpelier began to consider regulating, taxing or banning caffeinated alcoholic beverages, Bostonians may try to fear-monger local brewers and gain some allies, but Vermont's micro-breweries simply aren't producing caffeinated coffee beer to be pounded by the case. 
+If Montpelier began to consider regulating, taxing or banning caffeinated alcoholic beverages, Bostonians may try to fear-monger local brewers and gain some local allies, but Vermont's micro-breweries simply aren't producing caffeinated coffee beer to be pounded by the case. 
 
 There are many reasons thick coffee beers from local micro-breweries aren't sold in 12-packs at gas stations, despite Vermont having more breweries per capita than any other state. 
 
