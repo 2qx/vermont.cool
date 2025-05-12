@@ -101,7 +101,7 @@ Be wary of "ready to drink" (RTD) spiked cola cocktails (with 30 mg of caffeine 
 
 ## You're comin' for your coffee micro-brews!
 
-If Montpelier began to consider regulating, taxing or banning caffeinated alcoholic beverages, Bostonians may try to fear-monger local brewers and gain some local allies, but Vermont's micro-breweries simply aren't producing caffeinated coffee beer to be pounded by the case. 
+If Montpelier began to consider regulating, taxing or banning caffeinated alcoholic beverages, Bostonians may try to fear-monger to gain some local allies, but Vermont's micro-breweries simply aren't producing caffeinated coffee beer to be pounded by the case. 
 
 There are many reasons thick coffee beers from local micro-breweries aren't sold in 12-packs at gas stations, despite Vermont having more breweries per capita than any other state. 
 
