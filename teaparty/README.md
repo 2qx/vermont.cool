@@ -11,7 +11,7 @@ image:
 
 > Green Mountain folks don't drink hard brews laced with caffeine.
 
-<img src="./teaparty.webp">
+<img src="./teaparty.png">
 
 Young Vermonters are getting hooked on caffeinated alcoholic malt beverages & spiked tea. Many don't know what they're getting addicted to, or why they're drinking more. 
 
