@@ -46,9 +46,9 @@ If you've read this far, you know the secret; you're in the party.
 
 ## History rhymes with "poor foko"
 
-According to the CDC, drinking alcohol that is mixed with caffeine could lead to more drinking, injury, and risks to your health.
+In the 2000s, several companies began added caffeine (about ~150 mg per serving) to alcoholic beverages and marketing those drinks to young audiences like energy drinks.
 
-In the 2000s, companies began adding caffeine (about ~150 mg per serving) to alcoholic malt beverages and marketing those drinks to young audiences like energy drinks. 
+Due to reports from incidents involving those products, the US Centers for Disease Control (CDC) began warning that drinking alcohol that is mixed with caffeine could lead to more drinking, injury, and risks to your health.
 
 In 2010, the Food and Drug Administration [warned](https://www.fda.gov/food/food-additives-petitions/caffeinated-alcoholic-beverages) four companies that caffeine is an "unsafe food additive" for alcoholic beverages.
 
@@ -58,7 +58,7 @@ The Federal Trade Commission [warned](https://www.ftc.gov/news-events/news/press
 
 Despite all that, in 2025, one of the most common beverages littering Vermont roadsides is a beverage with 30 milligrams of caffeine per 12 ounce can. Meaning a six-pack contains roughly 180 milligrams, or about as much as a large cup of coffee.
 
-With tea flavored malt beverages, the caffeine is added with a naturally occurring compound in the flavoring. So not only did the sale of the beverage remain legal, **there is no warning that mixing alcohol and caffeine is considered more dangerous**, nor is there even an indication on the label that the **alcoholic beverage even contains caffeine**.
+With tea *flavored* alcoholic beverages, the caffeine is added with a naturally occurring compound in the flavoring. So not only did the sale of the beverage remain legal, **there is no label or warning that mixing alcohol and caffeine is considered more dangerous**, nor is there even an indication on the label that the **alcoholic beverage even contains caffeine**.
 
 ## A sweet trifecta for better drink sales
 
