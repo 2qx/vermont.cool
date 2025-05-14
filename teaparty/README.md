@@ -1,6 +1,6 @@
 ---
-title: Beware of tea flavored malt beverages & spiked tea
-description: Caffeine mixed with alcohol can be more dangerous to your health.
+title: Is there a dirty secret lurking in your spiked tea?
+description: This subtle sales gimmick could be dangerous to your health.
 date: 2025-05-09
 permalink: /teaparty/
 image:
@@ -13,11 +13,11 @@ image:
 
 <img src="./teaparty.png">
 
-Young Vermonters are getting hooked on caffeinated alcoholic malt beverages & spiked tea. Many don't know what they're getting addicted to, or why they're drinking more. 
+Young Vermonters are getting hooked on caffeinated alcoholic teas. Many don't know what they're getting addicted to, or why they're drinking more.
 
 Here's the dangerous cocktail to look out for:
 
-- 15-30 mg of caffeine per serving
+- 15-30 mg of **caffeine** per serving
 - Non-carbonated drinkable beverage
 - Cheap, using VT's 6% alcohol tax rate
 - Sweet, colorful package, hip marketing
@@ -35,10 +35,11 @@ If you've read this far, you know the secret; you're in the party.
 + [A sweet trifecta for better drink sales](#a-sweet-trifecta-for-better-drink-sales)
 + [But I don't drink](#but-i-dont-drink)
 + [But caffeine doesn't effect me](#but-caffeine-doesnt-effect-me)
++ [But it's the lack of carbonation](#but-its-the-lack-of-carbonation)
 + [One drug at a time](#one-drug-at-a-time)
 + [You're comin' for your coffee micro-brews!](#youre-comin-for-your-coffee-micro-brews)
 + [What to know more?](#what-to-know-more)
-+ [Where's my sticker?](#wheres-my-sticker)
++ [Where's my stickers?](#wheres-my-stickers)
 + [Disclaimers](#disclaimers)
 
 
@@ -87,6 +88,10 @@ Caffeine can be a *subtle* addition, with very mild addictive qualities and mild
 
 Combined with alcohol and sugar, most people aren't going to notice 30 milligrams of caffeine. But for a daily drinker, it adds up and would probably lead to a noticeable headache, if a routine was broken. 
 
+## But it's the lack of carbonation
+
+Caffeine is addictive. It's the caffeine.
+
 ## One drug at a time
 
 Looking to kick the tea habit?
@@ -96,8 +101,6 @@ There's lots of caffeinated beverages people tend to drink in the morning, and l
 There are lots of places in Vermont to get a sugary latte, or a sugary tea beverage. Drinking one energy drink would be the equivalent of six tea beverages, and much cheaper. 
 
 There are, of course, a host of non-caffeinated spiked cocktails, or canned alcoholic beverages.
-
-Be wary of "ready to drink" (RTD) spiked cola cocktails (with 30 mg of caffeine per serving).
 
 ## You're comin' for your coffee micro-brews!
 
@@ -117,13 +120,14 @@ However, since it's no secret that coffee contains caffeine, a malted coffee bev
 
 [Article: Why Are Caffeinated Alcoholic Energy Drinks Dangerous?](https://www.scientificamerican.com/article/caffeine-alcohol-mix-dangerous/)
 
-## Where's my sticker?
+## Where's my stickers?
 
 Here you go.
 
 <img width=400px src="./vermont.cool.teaparty.svg">
+<img width=400px src="./vermont.cool.teaparty.cringe.svg">
 
-This sticker is for cool kids to raise awareness about the subtle addictive and dangerous effects of caffeine mixed with alcohol. 
+These stickers are for cool kids to raise awareness about the subtle addictive and dangerous effects of caffeine mixed with alcohol.
 
 The stable URL for this document is https://vermont.cool/teaparty
 
