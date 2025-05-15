@@ -31,7 +31,7 @@ Worst of all, we're losing some of our fellow Vermonters to addiction because so
 
 If you've read this far, you know the secret; you're in the party.
 
-+ [History rhymes with "poor foko"](#history-rhymes-with-poor-foko)
++ [An "unsafe food additive" in alcoholic beverages](#an-unsafe-food-additive-in-alcoholic-beverages)
 + [A sweet trifecta for better drink sales](#a-sweet-trifecta-for-better-drink-sales)
 + [But I don't drink](#but-i-dont-drink)
 + [But caffeine doesn't effect me](#but-caffeine-doesnt-effect-me)
@@ -44,7 +44,7 @@ If you've read this far, you know the secret; you're in the party.
 
 
 
-## History rhymes with "poor foko"
+## An "unsafe food additive" in alcoholic beverages
 
 In the 2000s, several companies began added caffeine (about ~150 mg per serving) to alcoholic beverages and marketing those drinks to young audiences like energy drinks.
 
