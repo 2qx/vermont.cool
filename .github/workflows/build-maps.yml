@@ -19,7 +19,7 @@ jobs:
 
       - run: curl --output vermont-latest.osm.pbf https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf
 
-      - uses: systemed/tilemaker@v2.0.0
+      - uses: systemed/tilemaker@v3.0.0
         with:
           input: vermont-latest.osm.pbf
           output: vermont.pmtiles
