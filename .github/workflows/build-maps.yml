@@ -34,7 +34,7 @@ jobs:
           osmium export vermont-latest.osm.pbf -o vermont-latest.geojson --overwrite
 
 
-      - run: tippecanoe -z12 -pd -o assets/vermont.pmtiles vermont-latest.geojson
+      - run: tippecanoe -z12 -pd --no-tile-compression -o assets/vermont.pmtiles vermont-latest.geojson
 
       - run: rm ./vermont-latest.osm.pbf
       - run: rm ./vermont-latest.geojson
