@@ -1,9 +1,9 @@
 name: build-maps
 run-name: build-maps
 on:
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
   schedule:
     # At 3:48am on Sundays in May, June, July, August, and September 
     - cron: "48 3 * 5,6,7,8,9 0"
@@ -13,16 +13,28 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    name: download and save data
     steps:
       - uses: actions/checkout@v3
+      
+      - name: Install Tippecanoe
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y build-essential libsqlite3-dev zlib1g-dev
+          git clone https://github.com/felt/tippecanoe.git
+          cd tippecanoe
+          make -j
+          sudo make install
+
 
       - run: curl --output vermont-latest.osm.pbf https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf
 
-      - uses: systemed/tilemaker@v2.4.0
-        with:
-          input: vermont-latest.osm.pbf
-          output: assets/pmtiles
+
+      - run: tippecanoe -zg --projection=EPSG:4326 -o asssets/vermont.pmtiles -i vermont-latest.osm.pbf
+
+      # - uses: systemed/tilemaker@v2.4.0
+      #   with:
+      #     input: vermont-latest.osm.pbf
+      #     output: assets/pmtiles
 
       - run: rm ./vermont-latest.osm.pbf
 
