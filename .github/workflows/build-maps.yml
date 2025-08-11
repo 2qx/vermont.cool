@@ -33,7 +33,7 @@ jobs:
         run: |
           osmium export vermont-latest.osm.pbf -o vermont-latest.geojson --overwrite
 
-      - run: rm asssets/vermont.pmtiles
+      - run: rm assets/vermont.pmtiles
 
       - run: tippecanoe -z11 -l osm -pd --projection=EPSG:4326 -f -o asssets/vermont.pmtiles vermont-latest.geojson
 
