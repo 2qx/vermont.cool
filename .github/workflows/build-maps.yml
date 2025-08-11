@@ -23,7 +23,6 @@ jobs:
         with:
           input: vermont-latest.osm.pbf
           output: assets/pmtiles
-          config: _tile_config.json
 
       - run: rm ./vermont-latest.osm.pbf
 
