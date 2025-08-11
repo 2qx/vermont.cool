@@ -19,7 +19,8 @@ jobs:
       - name: Install Tippecanoe
         run: |
           sudo apt-get update
-          sudo apt-get install -y build-essential libsqlite3-dev zlib1g-dev
+          sudo apt-get install -y build-essential osmium-tool gcc g++ make libsqlite3-dev zlib1g-dev
+          pip install geojson shapely
           git clone https://github.com/felt/tippecanoe.git
           cd tippecanoe
           make -j
@@ -28,15 +29,14 @@ jobs:
 
       - run: curl --output vermont-latest.osm.pbf https://download.geofabrik.de/north-america/us/vermont-latest.osm.pbf
 
+      - name: Convert municipality boundaries to GeoJSON
+        run: |
+          osmium export vermont-latest.osm.pbf -o vermont-latest.geojson --overwrite
 
-      - run: tippecanoe -zg --projection=EPSG:4326 -o asssets/vermont.pmtiles -i vermont-latest.osm.pbf
-
-      # - uses: systemed/tilemaker@v2.4.0
-      #   with:
-      #     input: vermont-latest.osm.pbf
-      #     output: assets/pmtiles
+      - run: tippecanoe -zg --projection=EPSG:4326 -o asssets/vermont.pmtiles vermont-latest.geojson
 
       - run: rm ./vermont-latest.osm.pbf
+      - run: rm ./vermont-latest.geojson
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
