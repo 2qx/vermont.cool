@@ -1,9 +1,9 @@
 name: build-maps
 run-name: build-maps
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
   schedule:
     # At 3:48am of May, June, July, August, and September on Sunday
     - cron: "48 3 * 5,6,7,8,9 0"
