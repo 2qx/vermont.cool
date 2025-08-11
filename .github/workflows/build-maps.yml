@@ -22,7 +22,7 @@ jobs:
       - uses: systemed/tilemaker@v2.4.0
         with:
           input: vermont-latest.osm.pbf
-          output: vermont.pmtiles
+          output: assets/pmtiles
 
       - run: rm ./vermont-latest.osm.pbf
 
