@@ -33,10 +33,11 @@ jobs:
         run: |
           osmium export vermont-latest.osm.pbf -o vermont-latest.geojson --overwrite
 
-      - run: tippecanoe -z11 -l osm -pd --projection=EPSG:4326 -o -f asssets/vermont.pmtiles vermont-latest.geojson
+      - run: tippecanoe -z11 -l osm -pd --projection=EPSG:4326 -f -o asssets/vermont.pmtiles vermont-latest.geojson
 
       - run: rm ./vermont-latest.osm.pbf
       - run: rm ./vermont-latest.geojson
+      - run: rm -fr tippecanoe
 
       # Commit all changed files back to the repository
       - uses: stefanzweifel/git-auto-commit-action@v5
