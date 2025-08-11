@@ -1,1 +1,1 @@
-include: ['assets/pmtiles']
+include: ['assets/pmtiles', 'assets/tiles.json']

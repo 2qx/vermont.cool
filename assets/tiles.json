@@ -1,0 +1,21 @@
+{
+    "id": "vt",
+    "name": "vermont.cool",
+    "description": "vermont.cool",
+    "version": "2",
+    "minzoom": 0,
+    "maxzoom": 18,
+    "bounds": [
+        -78,
+        40,
+        -70,
+        48
+    ],
+    "format": "pbf",
+    "attribution": "vermont.cool, © [OpenStreetMap](https://www.openstreetmap.org/copyright)",
+    "pixel_scale": 256,
+    "tilejson": "2.0.0",
+    "tiles": [
+        "https://vermont.cool/assets/pmtiles/{z}/{x}/{y}.pbf"
+    ]
+}
