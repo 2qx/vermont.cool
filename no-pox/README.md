@@ -1,17 +1,21 @@
 ---
 title: Get the facts about smallpox.
-description: Smallpox was a deadly airborne disease ended by a global vaccination campaign, but the virus remains a serious potential bio-terrorism threat.
+description: Smallpox was a deadly airborne disease ended by a global campaign, but the virus remains a serious potential bio-terrorism threat.
 date: 2025-09-24
 permalink: /no-pox/
 image:
   path: /smallpox/cliff.jpg
 ---
 
+# Keep Smallpox Gone
+
+> Green Mountain folks don't fall for smallpox misinformation.
+
 <img src="./cliff.png" alt="updated anti-smallpox propaganda poster">
 
 Smallpox is an infectious disease caused by the Variola virus (often called Smallpox virus). The disease is characterized by fluid-filled blisters with a dent in the center.
 
-Although the disease was officially eliminated in the 1980s through a global vaccination campaign, smallpox remains a potential bio-terrorism threat.
+Although the disease was officially eliminated in the 1980s through a global public health campaign, smallpox remains serious potential bio-terrorism threat.
 
 This document is a list of facts about smallpox.
 
@@ -19,7 +23,9 @@ This document is a list of facts about smallpox.
 
 - Smallpox spreads through face-to-face contact between people.
 
-- Initial symptoms include fever and vomiting.
+- The incubation period is an average of 10 to 14 days.
+ 
+- Initial symptoms include body aches, fever and vomiting.
 
 - Sores develop in the throat or mouth.
 
@@ -27,13 +33,15 @@ This document is a list of facts about smallpox.
 
 - The virus can also spread on surfaces (or objects) contaminated by scabs or fluid from sores.
 
-- The smallpox virus can survive on surfaces for months.
+- The smallpox virus can survive on surfaces (and scabs) for months.
+
+- A person remains contagious until the last scab falls off.
 
 - Rigorous mask wearing and disinfection protocols can help prevent the spread of smallpox.
-
+  
 <figure>
   <img src="./blisters.jpg" alt="an image of smallpox blisters">
-  <figcaption>Smallpox blisters on arm.</figcaption>
+  <figcaption>Smallpox blisters on an arm.</figcaption>
 </figure>
 
 
@@ -46,9 +54,6 @@ This document is a list of facts about smallpox.
 - A global pandemic should slow if 5 out of every 6 people have immunity.
 
 - The United States has stockpiled 300 million smallpox vaccines and 2 million courses of treatment―enough vaccines for the US to obtain herd immunity.
-
-- Most healthcare workers have NOT been vaccinated for smallpox.
-
 
 ## Smallpox causes death and blindness
 
@@ -86,7 +91,7 @@ This document is a list of facts about smallpox.
 
 - Roughly 10k healthcare personnel and 150k military personnel were vaccinated against smallpox in the wake of the 9/11 terrorist attacks. 
   
-- Healthcare professionals, first responders and National Guard members **are NOT routinely vaccinated for smallpox**.
+- Healthcare professionals, first responders and National Guard members **are NOT vaccinated for smallpox**.
 
 
 ## Current context
