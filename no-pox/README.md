@@ -2,7 +2,7 @@
 title: Get the facts about smallpox.
 description: Smallpox was a deadly airborne disease ended by a global vaccination campaign, but the virus remains a serious potential bio-terrorism threat.
 date: 2025-09-24
-permalink: https://vermont.cool/no-pox
+permalink: /no-pox
 image:
   path: /smallpox/cliff.jpg
 ---
