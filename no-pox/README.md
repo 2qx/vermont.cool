@@ -83,7 +83,7 @@ This document is a list of facts about smallpox.
 
 ## Current context
 
-<img src="./cliff.jpg" width="500px">
+<img src="./cliff.jpg" >
 
 - Since 2020, throughout the COVID-19 pandemic, enemies of the United States (both foreign and domestic) have been engaged in a persistent campaign to spread misinformation specifically calibrated to maximize damage from a deadly airborne pandemic.
 
