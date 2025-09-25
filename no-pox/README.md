@@ -15,9 +15,9 @@ image:
 
 Smallpox is an infectious disease caused by the Variola virus (often called Smallpox virus). The disease is characterized by fluid-filled blisters with a dent in the center.
 
-Although the disease was officially eliminated in the 1980s through a global public health campaign, smallpox remains serious potential bio-terrorism threat.
+Although the disease was officially eliminated in the 1980s through a global public health campaign, smallpox remains a serious risk if used as a biological weapon.
 
-This document is a list of facts about smallpox.
+This document is a list of facts about smallpox for the general public.
 
 ##  Masks and disinfection
 
