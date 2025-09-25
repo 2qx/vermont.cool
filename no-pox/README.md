@@ -2,14 +2,14 @@
 title: Get the facts about smallpox.
 description: Smallpox was a deadly airborne disease ended by a global vaccination campaign, but the virus remains a serious potential bio-terrorism threat.
 date: 2025-09-24
-permalink: https://vermont.cool/smallpox-facts
+permalink: https://vermont.cool/no-pox
 image:
   path: /smallpox/cliff.jpg
 ---
 
 Smallpox is an infectious disease caused by the Variola virus (often called Smallpox virus). The disease is characterized by fluid-filled blisters with a dent in the center.
 
-Although the disease was officially eliminated in the 1980s through a global vaccination campaign, but smallpox remains a potential bio-terrorism threat.
+Although the disease was officially eliminated in the 1980s through a global vaccination campaign, smallpox remains a potential bio-terrorism threat.
 
 This document is a list of facts about smallpox.
 
@@ -29,7 +29,7 @@ This document is a list of facts about smallpox.
 
 - Rigorous mask wearing and disinfection protocols can help prevent the spread of smallpox.
 
-<img src="./blisters.jpg" width="500px">
+<!-- <img src="./blisters.jpg" width="500px"> -->
 
 ## Vaccination
 
@@ -60,7 +60,7 @@ This document is a list of facts about smallpox.
 
 - A global smallpox pandemic could kill up to 2.3 billion people.
 
-- Although public health officials are typically the first and loudest voices **against** mass quarantine (or disruptive measures) to stop the spread of disease, it's likely that a sustained smallpox outbreak would be dangerous enough to warrant significant disruptions to daily life.
+- Although public health officials are often the first and loudest voices **against** mass quarantine to stop the spread of disease, it's likely that a sustained smallpox outbreak would be dangerous enough to warrant significant disruptions to daily life.
 
 - Regardless, bad actors will use rumors of "lockdowns" on social media to cause panic and encourage exposed individuals to flee an outbreak epicenter, making an initial outbreak more difficult to contain.
 
