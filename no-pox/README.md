@@ -7,6 +7,8 @@ image:
   path: /smallpox/cliff.jpg
 ---
 
+<img src="./cliff.png" alt="updated anti-smallpox propaganda poster">
+
 Smallpox is an infectious disease caused by the Variola virus (often called Smallpox virus). The disease is characterized by fluid-filled blisters with a dent in the center.
 
 Although the disease was officially eliminated in the 1980s through a global vaccination campaign, smallpox remains a potential bio-terrorism threat.
@@ -29,7 +31,11 @@ This document is a list of facts about smallpox.
 
 - Rigorous mask wearing and disinfection protocols can help prevent the spread of smallpox.
 
-<!-- <img src="./blisters.jpg" width="500px"> -->
+<figure>
+  <img src="./blisters.jpg" alt="an image of smallpox blisters">
+  <figcaption>Smallpox blisters on arm.</figcaption>
+</figure>
+
 
 ## Vaccination
 
@@ -62,7 +68,7 @@ This document is a list of facts about smallpox.
 
 - Although public health officials are often the first and loudest voices **against** mass quarantine to stop the spread of disease, it's likely that a sustained smallpox outbreak would be dangerous enough to warrant significant disruptions to daily life.
 
-- Regardless, bad actors will use rumors of "lockdowns" on social media to cause panic and encourage exposed individuals to flee an outbreak epicenter, making an initial outbreak more difficult to contain.
+- Bad actors can be expected to use rumors of "lockdowns" on social media to cause panic and encourage exposed individuals to flee an outbreak epicenter, making an initial outbreak more difficult to contain.
 
 ## Smallpox history
 
@@ -78,12 +84,12 @@ This document is a list of facts about smallpox.
 
 - The US stopped recommending childhood vaccination for smallpox in 1971.
 
-- Roughly 10k healthcare personnel and 150k military personnel were vaccinated against smallpox in the wake of the 9/11 terrorist attacks. Healthcare and military personnel are routinely vaccinated for smallpox.
+- Roughly 10k healthcare personnel and 150k military personnel were vaccinated against smallpox in the wake of the 9/11 terrorist attacks. 
+  
+- Healthcare professionals, first responders and National Guard members **are NOT routinely vaccinated for smallpox**.
 
 
 ## Current context
-
-<img src="./cliff.jpg" >
 
 - Since 2020, throughout the COVID-19 pandemic, enemies of the United States (both foreign and domestic) have been engaged in a persistent campaign to spread misinformation specifically calibrated to maximize damage from a deadly airborne pandemic.
 
@@ -99,10 +105,10 @@ This document is a list of facts about smallpox.
 
 ## Future risk factors
 
-- Heat stress is currently the leading cause of weather-related death. While public cooling centers can be a refuge for households without access to both air-conditioning and a power-backup, in the event of a smallpox epidemic, families may have to choose between the heat or potentially being exposed to smallpox in a cooling center. Preemptive mpox vaccine could eliminate the risk of contracting smallpox in a cooling center.
+- Heat stress is the leading cause of weather-related death. While public cooling centers can be a refuge for households without access to both air-conditioning and a power-backup, in the event of a smallpox epidemic, families may have to choose between braving a heat event or potentially being exposed to smallpox in a cooling center. The currently available mpox vaccine could effectively eliminate the risk of contracting smallpox in a cooling center.
 
-- Individuals or groups that are being openly threatened with unlawful detention or deportation might consider preemptive an mpox vaccination to protect themselves. Additionally, vaccination can protect them from being used as a bio-weapon within their group or as a living bio-weapon for export.
+- Individuals in groups that are being openly threatened with unlawful detention or deportation might consider preemptive vaccination with the currently available mpox vaccine to protect themselves. Additionally, vaccination can offer protection from being used as a bio-weapon within their group or as a living bio-weapon for export.
 
-- Every year, the fraction of the total population born after 1971 with no immunity to smallpox increases by 1.1%.
+- Every year, the fraction of the total population born after 1971 with no immunity to smallpox increases by roughly 1.1%.
 
 - While both Russia and the United States maintain live samples of smallpox, the technology to create a whole virus from the DNA sequence also becomes more readily available every year.
