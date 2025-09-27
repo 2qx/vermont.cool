@@ -65,7 +65,7 @@ This document is a list of facts about smallpox for the general public.
 
 - A single modern case of smallpox is a global health emergency.
 
-- The Centers for Disease Control (CDC) is responsible for positive identification, initial response, coordinating containment of a case of smallpox.
+- The Centers for Disease Control (CDC) is responsible for positive identification, initial response, and coordinating containment of a case of smallpox.
 
 - The Department of Health and Human Services (HHS) is responsible for distribution of vaccines from the Strategic National Stockpile (SNS).
 
