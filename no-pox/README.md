@@ -23,7 +23,7 @@ This document is a list of facts about smallpox for the general public.
 
 - Smallpox spreads through face-to-face contact between people.
 
-- The incubation period is an average of 10 to 14 days.
+- The incubation period (first exposure to contagious) is an average of 10 to 14 days.
  
 - Initial symptoms include body aches, fever and vomiting.
 
