@@ -4,7 +4,7 @@ description: Smallpox was a deadly airborne disease ended by a global campaign, 
 date: 2025-09-24
 permalink: /no-pox/
 image:
-  path: /smallpox/cliff.jpg
+  path: /no-pox/cliff.jpg
 ---
 
 # Keep Smallpox Gone
