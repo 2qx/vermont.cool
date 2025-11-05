@@ -1,6 +1,6 @@
 ---
-title: A pandemic of apathy
-description: A letter to Vermont's healthcare professionals  
+title: A Pandemic of Apathy
+description: a letter to Vermont's healthcare professionals  
 date: 2025-11-05
 permalink: /empathy/
 image:
@@ -13,7 +13,7 @@ image:
 
 TiSSSSSSSSSSSSSSSSSSst!! 🐍,
 
-Sorry to "tisst" at you all like a snake. I know that's not a typical Vermont greeting, but I'm a bit of a hard outlier. In my travels, I noticed this *tissing* can be a very versatile way of code signaling or getting someone's attention. Since it's not an expression used in Vermont, it can be our code word for thissss. 
+Sorry to "tisst" at you all like a snake. I know that's not a typical Vermont greeting, but I'm a bit of an outlier. In my travels, I noticed this *tissing* can be a very versatile way of code signaling or getting someone's attention. Since it's not an expression used in Vermont, it can be our code word for thissss. 
 
 Attention is scarce; everyone is busy. So I'll get straight to it as directly as I can.
 
