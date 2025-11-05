@@ -37,7 +37,7 @@ If we can collectively spot a potential problem early enough, we could begin to 
 
 ## A very unique speck
 
-So, where is this specific strand of danger and how to we stop it?
+So, where is this specific strand of danger and how do we stop it?
 
 Whelp, we are back with the same leaders that failed us. 
 
