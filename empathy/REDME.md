@@ -13,7 +13,7 @@ image:
 
 TiSSSSSSSSSSSSSSSSSSst!! 🐍,
 
-Sorry to "tisst" at you all like a snake. I know that's not a typical Vermont greeting, but I'm a bit of a hard outlier. In my travels, I noticed this *tissing* can be a very versatile way of code signaling or getting someone's attention. Since it's not an expression used in Vermont,  it's code for. 
+Sorry to "tisst" at you all like a snake. I know that's not a typical Vermont greeting, but I'm a bit of a hard outlier. In my travels, I noticed this *tissing* can be a very versatile way of code signaling or getting someone's attention. Since it's not an expression used in Vermont, it can be our code word for thissss. 
 
 Attention is scarce; everyone is busy. So I'll get straight to it as directly as I can.
 
@@ -21,19 +21,21 @@ I've run across a small problem in the future. It's so small it may seem insigni
 
 ## A bad trajectory
 
-As we are latently aware, we are of a pandemic of apathy. A lot of people are declining in mental health from a disconnection with each other and reality. Tech-goons are openly tweaking their apps to extinguish our sense of empathy and divide us along political and ideological lines. More and more people are being increasingly bombarded with disinformation, hateful rhetoric and depictions of violence. And the end result is showing up in real life interactions. More and more people have stopped caring or communicating with large groups of folks. A lot of folks are now retreating deeply into emotional connections with AI, far far away from the real world and real people.
+As we are latently aware, we are of a pandemic of apathy. 
+
+A lot of people are declining in mental health from a disconnection with each other and reality. Tech-goons are openly tweaking their apps to extinguish our sense of empathy and divide us along political and ideological lines. More and more people are being increasingly bombarded with disinformation, hateful rhetoric and depictions of violence. And the end result is showing up in real life interactions. More and more people have stopped caring or communicating with large groups of folks. A lot of folks are now retreating deeply into emotional connections with AI, far far away from the real world and real people.
 
 Just a few years ago, we had the "pandemic of the unvaccinated". But it was actually us, as a society. We gave up a bit on engaging with our fellow citizens who had fallen prey to disinformation. A lot of folks developed an aversion to discussing masks and vaccines because a significant fraction of the population was so vehemently opposed and conspiratorial that we just ended up dropping those topics to avoid conflict. 
 
-And, of course, we got into this pandemic spiral largely because every safeguard and expectation for what SHOULD have happened to control a novel epidemic failed. The United States came in last in the world on a long list of metrics including being able to rebound like other countries did.
+And, of course, we got into this pandemic spiral largely because every safeguard and expectation for what *SHOULD* have happened to control a novel epidemic failed. The United States came in last in the world on a long list of metrics including being able to rebound like other countries did.
 
-Finally, perhaps MOST dangerously of all, folks in our society with the means to intervene in a public health emergency were taught a truly terrible lesson. The lesson was that delay and inaction causes the potential financial reward for acting in an event to increase exponentially as the scale of the crisis grows. Leaders and industry titans learned how to turn public problems into exponential profit, which can be the terminal mechanic of countries in a downward spiral.
+Finally, perhaps *MOST* dangerously of all, folks in our society with the means to intervene in a public health emergency were taught a truly terrible lesson. The lesson was that delay and inaction causes the potential financial reward for acting in an event to increase exponentially as the scale of the crisis grows. Leaders and industry titans learned how to turn public problems into exponential profit, which can be the terminal mechanic of countries in a downward spiral.
 
 But our brave little state is special. We have an advantage, an advantage in time, for the near future. 
 
 If we can collectively spot a potential problem early enough, we could begin to stop it ourselves effectively for free, while it's still an imperceptible speck. And we wouldn't need billionaires or politicians to help us. (Their malicious actions and calculated delay would be less likely to harm us later too.)
 
-## A unique speck
+## A very unique speck
 
 So, where is this specific strand of danger and how to we stop it?
 
@@ -47,15 +49,17 @@ Things that we paid for and built to protect us are suddenly going missing.
 
 At a certain point, we need to consider that overt malfeasance is malevolent.
 
-And yet, we shouldn't need to panic about every disease because for all the vaccines we routinely use, we are mostly protected by herd immunity. 
+And yet, we shouldn't need to panic about every disease because for most of the vaccines we routinely use, we are mostly protected by herd immunity. 
 
-For example, there's little measles and pertussis pockets popping up across the country, but those outbreaks won't become endemic for decades because the general population is still immune. The math says that problem won't "run" and become out of control. (Although they're obviously still dangerous on a local scale, especially in young populations.)
+For example, there's little measles and pertussis pockets popping up across the country, but those outbreaks won't become endemic for decades because the general population is still immune. The math says that problem won't "run" and become out of control overnight. (Although they're obviously still dangerous on a local scale, especially in young populations.)
 
 With polio, although we gave up the strategy of full herd immunity in 2000, the outbreak in New England in 2022 shows we can have sizable events with the new makeshift vaccine global strategy that are only easily observable from wastewater monitoring. The fecal oral vaccine is a pretty good stop gap (which is seeing more and more use globally).
 
 None of the usual suspects circulating in the world should be disruptive to daily life in the immediate future, because the fraction of the population naive to them is small and only grows 1.1% annually.
 
-However, there is just one idiosyncratic thing we forgot about. There is one pesky remainder to an equation nobody wants to think about, which we do actually have to solve for, now.
+An emerging disease could come out of the jungle or permafrost, which is always a devil we don't know.
+
+However, there is one idiosyncratic thing we forgot about. There is one pesky remainder to an equation nobody wants to think about, which we do actually have to solve for, now.
 
 There is one very bad guy and a weapon that has become about 1.1% more potent for every year of the half century that it's been in a freezer. And that danger is now about fifty times more deadly than the most recent reference point we have as a society.
 
@@ -73,7 +77,7 @@ There have been many iterations of INFEKTION since, some more deadly than others
 
 He is only one person truly qualified to know what he plans to do. The rest of us can speculate on the likeliness of what he may do based on inference of what he prioritizes. In any case, it's not a matter of random chance.
 
-Vermont is a wonderful place full of incredible beauty and hardy people. It may be difficult to convey how terrible the surrounding world can be to people here. It's horrible to have to consider such a terrible villain or idea in such an idyllic place, but we need to have the capacity to conceive of a person with no human empathy whatsoever to keep what we have and those we love safe.
+Vermont is still a wonderful place full of incredible beauty and hardy people. It may be difficult to convey how terrible the surrounding world can be to people here. It's horrible to have to consider such a terrible villain or idea in such an idyllic place, but we need to have the capacity to conceive of a person with no human empathy whatsoever to keep what we have and those we love safe.
 
 His influence is already here with us, everywhere in Vermont. 
 
@@ -93,7 +97,7 @@ But the math of a conspiracy involving hundreds of millions of people says it cl
 
 We need to close this small vulnerability soon. Ideally, it should be fixed completely for all our healthcare workers within the next month.
 
-Frontline healthcare professionals in Vermont need to figure out the one vaccine you all need in this brave new world, the vaccine nobody got because we dropped it in 1971.
+Frontline healthcare professionals in Vermont need to get the one vaccine you all need in this brave new world, the vaccine nobody got because we dropped the old one in 1971.
 
 Please consider seriously if we have a government, or an independent judiciary or a functioning Congress. And check your gut if those folks are ever gonna help us.
 
@@ -121,11 +125,11 @@ Even if you're the only one who reads this and gets vaccinated, don't underestim
 
 ## Notes
 
-On logistics: at the moment, frontline workers physically control custody to the immediate vaccine stocks. They are the means of distribution. They are currently at the front of an empty queue. Reddit nurses! you need to collect the Facebook, FrontPorch and TicTok nurses, then start corralling everyone through to the basement and out the back. Be apprehensive of malevolence passing as incompetence.
+On logistics: at the moment, frontline workers physically control custody to the immediate vaccine stocks. They are the means of distribution. They are currently at the front of an empty queue. Reddit nurses! you need to collect the Facebook, FrontPorch and TicTok nurses, then start corralling everyone through to the basement and out the back. Be apprehensive of actors defying common sense.
 
 Folks in the Press, Hi. The topic being alluded to above hasn't been reported, so you know the drill: 🙈,🙉,🙊. If you want to fulfill the function of a free press in the future, you might consider calling to schedule a jab next week. There's no scoop. You are being recruited for reasons that might become apparent later.
 
-For the general public, the virus is not the danger. We can stop this without herd immunity. The danger is the disinformation controlling the mobile virus production units that have been pre-positioned in your community. We have to reach our neighbors with empathy and bring them back to humanity and the land of the living. We need to be able to inoculate our neighbors with the facts, and keep doing it after repeatedly failing until it works.
+For the general public, the virus is not the danger. We can stop a virus without herd immunity. The danger is the disinformation controlling the mobile virus production units that have been pre-positioned in your community. We have to reach our neighbors with empathy and bring them back to humanity and the land of the living. We need to be able to inoculate our neighbors with the facts, and keep doing it after repeatedly failing until it works.
 
 There is some [information here](https://vermont.cool/no-pox/) to get started.
 
