@@ -21,7 +21,7 @@ I've run across a small problem in the future. It's so small it may seem insigni
 
 ## A bad trajectory
 
-As we are latently aware, we are of a pandemic of apathy. 
+As we are latently aware, we are in a pandemic of apathy. 
 
 A lot of people are declining in mental health from a disconnection with each other and reality. Tech-goons are openly tweaking their apps to extinguish our sense of empathy and divide us along political and ideological lines. More and more people are being increasingly bombarded with disinformation, hateful rhetoric and depictions of violence. And the end result is showing up in real life interactions. More and more people have stopped caring or communicating with large groups of folks. A lot of folks are now retreating deeply into emotional connections with AI, far far away from the real world and real people.
 
@@ -134,3 +134,5 @@ For the general public, the virus is not the danger. We can stop a virus without
 There is some [information here](https://vermont.cool/no-pox/) to get started.
 
 For the many challenges we are facing, empathy is perhaps the most powerful tool we have to turn the tide in our favor.
+
+cec3cd96924fb9e3ee2b6cf7872adc593acb53f0782054bfb2a53e2bc0fb15d8
