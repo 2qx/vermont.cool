@@ -71,9 +71,11 @@ Even then, a tremendous amount of preparation would have to take place to make t
 
 ## A bit of recent history 
 
-The anti-vaccination and anti-mask campaign we just experienced was an iteration of a Soviet era disinformation campaign called [Operation Denver, or INFEKTION](https://en.wikipedia.org/wiki/Operation_Denver). It was an effort to exacerbate the extraordinarily fatal AIDS pandemic during the Reagan administration by publishing false information in far flung news sources. While many conspiracies are fake, this one actually happened.
+The anti-vaccination and anti-mask campaign we just experienced was an iteration of a Soviet era disinformation campaign called [Operation Denver, or INFEKTION](https://en.wikipedia.org/wiki/Operation_Denver) . It was an effort to exacerbate the extraordinarily fatal AIDS pandemic during the Reagan administration by publishing false information in far flung news sources. While many conspiracies are fake, this one actually happened.
 
-There have been many iterations of INFEKTION since, some more deadly than others. Each time, our enemies got better at using events to weaken the standing of the United States and cause needless pain and suffering throughout the world. One person who has worked on all these campaigns, rose to the top of the pile in 1999 [by bombing a civilian apartment complex as pretense for an invasion](https://en.wikipedia.org/wiki/1999_Russian_apartment_bombings). The number of people he has killed in the last quarter century is on a scale most people would find uncomfortable to imagine. It's difficult to quantify the scale of what he has done, but he is as far up the pinnacle of diabolical modern day evil as we have.
+There have been many iterations of INFEKTION since, some more deadly than others.  Each time, our enemies got better at using events to weaken the standing of the United States and cause needless pain and suffering throughout the world. [^1]
+
+One person who has worked on all these campaigns, rose to the top of the pile in 1999 [by bombing a civilian apartment complex as pretense for an invasion](https://en.wikipedia.org/wiki/1999_Russian_apartment_bombings). The number of people he has killed in the last quarter century is on a scale most people would find uncomfortable to imagine. It's difficult to quantify the scale of what he has done, but he is as far up the pinnacle of diabolical modern day evil as we have.
 
 He is only one person truly qualified to know what he plans to do. The rest of us can speculate on the likeliness of what he may do based on inference of what he prioritizes. In any case, it's not a matter of random chance.
 
@@ -113,7 +115,7 @@ Where would exposed people living in densely populated areas go for refuge if th
 
 Where, physically, would Vermonters who are truly committed to being anti-mask, anti-vaccine, and pro-disease be likely to end up? And what would happen if they don't stop coming? What fraction of the population are we talking about?
 
-There are very real, tragic and permanent consequences to under-estimating the scale of what these folks are capable of doing. We have seen some of those consequences. Those potential consequences can be much worse than what we witnessed five years ago. They are iterating.
+There are very real, tragic and permanent consequences to under-estimating the scale of what these folks are capable of doing. We have seen some of those consequences. Those potential consequences can be much worse than what we witnessed five years ago. They are iterating. [^2]
 
 We all need you to trust your own common sense and instincts to protect your own health. We all need you to look out for your number one.
 
@@ -136,3 +138,8 @@ There is some [information here](https://vermont.cool/no-pox/) to get started.
 For the many challenges we are facing, empathy is perhaps the most powerful tool we have to turn the tide in our favor.
 
 cec3cd96924fb9e3ee2b6cf7872adc593acb53f0782054bfb2a53e2bc0fb15d8
+
+[^1]:  [False allegations of biological-weapons use from
+Putin’s Russia - The Nonproliferation Review](https://cissm.umd.edu/sites/default/files/2021-10/NonProliferationReview_False%20allegations%20of%20biological%20weapons%20use%20from%20Putin%20s%20Russia.pdf)
+
+[^2]:  [Bales, Jennifer. The Damage of Disinformation: A Glaring Omission in the U.S. Global Health Security Strategy - The Strategy Bridge](https://thestrategybridge.org/the-bridge/2020/7/16/the-damage-of-disinformation-a-glaring-omission-in-the-us-global-health-security-strategy)
