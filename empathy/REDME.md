@@ -19,7 +19,7 @@ Attention is scarce; everyone is busy. So I'll get straight to it as directly as
 
 I've run across a small problem in the future. It's so small it may seem insignificant or non-existent, but I'm asking you to start considering the potential of this small problem―right about now. 
 
-## A bad trajectory
+## A terminal feedback loop
 
 As we are latently aware, we are in a pandemic of apathy. 
 
