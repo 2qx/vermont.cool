@@ -139,7 +139,6 @@ For the many challenges we are facing, empathy is perhaps the most powerful tool
 
 cec3cd96924fb9e3ee2b6cf7872adc593acb53f0782054bfb2a53e2bc0fb15d8
 
-[^1]:  [False allegations of biological-weapons use from
-Putin's Russia - The Nonproliferation Review](https://cissm.umd.edu/sites/default/files/2021-10/NonProliferationReview_False%20allegations%20of%20biological%20weapons%20use%20from%20Putin%20s%20Russia.pdf)
+[^1]:  [Milton Leitenberg (2021): False allegations of biological-weapons use from Putin’s Russia, The Nonproliferation Review, DOI: 10.1080/10736700.2021.1964755](https://cissm.umd.edu/sites/default/files/2021-10/NonProliferationReview_False%20allegations%20of%20biological%20weapons%20use%20from%20Putin%20s%20Russia.pdf)
 
 [^2]:  [Bales, Jennifer. The Damage of Disinformation: A Glaring Omission in the U.S. Global Health Security Strategy - The Strategy Bridge](https://thestrategybridge.org/the-bridge/2020/7/16/the-damage-of-disinformation-a-glaring-omission-in-the-us-global-health-security-strategy)
