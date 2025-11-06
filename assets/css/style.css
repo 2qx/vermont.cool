@@ -4173,17 +4173,17 @@
     content:""
   }
   .container-md {
-    max-width:768px;
+    max-width:500px;
     margin-right:auto;
     margin-left:auto
   }
   .container-lg {
-    max-width:768px;
+    max-width:500px;
     margin-right:auto;
     margin-left:auto
   }
   .container-xl {
-    max-width:768px;
+    max-width:500px;
     margin-right:auto;
     margin-left:auto
   }
