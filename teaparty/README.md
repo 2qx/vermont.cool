@@ -31,19 +31,6 @@ Worst of all, we're losing some of our fellow Vermonters to addiction because so
 
 If you've read this far, you know the secret; you're in the party.
 
-+ [An "unsafe food additive" in alcoholic beverages](#an-unsafe-food-additive-in-alcoholic-beverages)
-+ [A sweet trifecta for better drink sales](#a-sweet-trifecta-for-better-drink-sales)
-+ [But I don't drink](#but-i-dont-drink)
-+ [But caffeine doesn't effect me](#but-caffeine-doesnt-effect-me)
-+ [But it's the lack of carbonation](#but-its-the-lack-of-carbonation)
-+ [One drug at a time](#one-drug-at-a-time)
-+ [You're comin' for your coffee micro-brews!](#youre-comin-for-your-coffee-micro-brews)
-+ [What to know more?](#what-to-know-more)
-+ [Where's my stickers?](#wheres-my-stickers)
-+ [Disclaimers](#disclaimers)
-
-
-
 ## An "unsafe food additive" in alcoholic beverages
 
 In the 2000s, several companies began added caffeine (about ~150 mg per serving) to alcoholic beverages and marketing those drinks to young audiences like energy drinks.

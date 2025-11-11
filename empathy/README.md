@@ -7,17 +7,21 @@ image:
   path: /empathy/football.jpg
 ---
 
-# A letter to Vermont's healthcare professionals
+# A Pandemic of Apathy
 
-2025-11-05
+##  A letter to Vermont's healthcare professionals
+
+November 5th, 2025
 
 TiSSSSSSSSSSSSSSSSSSst!! 🐍,
 
-Sorry to "tisst" at you all like a snake. I know that's not a typical Vermont greeting, but I'm a bit of an outlier. In my travels, I noticed this *tissing* can be a very versatile way of code signaling or getting someone's attention. Since it's not an expression used in Vermont, it can be our code word for thissss. 
+Sorry to "tisst" at you all like a snake. It's not a typical Vermont greeting, but *tissing* can be a very versatile way of code signaling or getting someone's attention. Since it's not an expression used in Vermont, it can be our code word for thissss. 
 
-Attention is scarce; everyone is busy. So I'll get straight to it as directly as I can.
+Attention is scarce; everyone is busy. So we'll get straight to it as directly as we can.
 
-I've run across a small problem in the future. It's so small it may seem insignificant or non-existent, but I'm asking you to start considering the potential of this small problem―right about now. 
+There may be a small problem in the future. It's so small it may seem insignificant or non-existent, but it's time to start considering the potential of this small problem―right about now. 
+
+The calculus of this problem has been well known for fifty years. This letter is a restatement of that calculus in our current context.
 
 ## A terminal feedback loop
 
@@ -83,7 +87,7 @@ Vermont is still a wonderful place full of incredible beauty and hardy people. I
 
 His influence is already here with us, everywhere in Vermont. 
 
-To me, it is chilling and alarming to hear a Vermonter say, "I'll never gonna wear a mask again."
+To me, it is chilling and alarming to hear a Vermonter say, "I'm never gonna wear a mask again."
 
 It is chilling and alarming to hear so many Americans say, "I'll never get a vaccine again."
 
