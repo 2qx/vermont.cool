@@ -20,3 +20,4 @@ Notices:
 Letters:
 
 1. [A pandemic of apathy](./empathy/)
+2. [How will Vermont's HCPs be vaccinated?](./how/)
