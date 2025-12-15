@@ -28,7 +28,7 @@ Since 1947, there has been an ongoing Russian KGB campaign to spread disinformat
 
 The unique change that has occured recently, is that despite the threat of COVID subsiding, the disinformation campaign is still blaring, and there are massive policy and resource changes happening in our country. 
 
-For example, on November 5th, Governor Phil Scott posted a picture of himself getting his seasonal vaccines to his X account. Every Vermonter should go look at what the bots and folks who have been conditioned by bots are saying. Vermonters *must* think critically about the objective and danger of this disinformation, and what we'll each have to do to effectively counter it. The operation has captured the ownership and leadership of our social media companies. 
+For example, on November 5th, Governor Phil Scott posted a picture of himself getting his seasonal vaccines to his X account (@GovPhilScott). Every Vermonter should go look at what the bots and folks who have been conditioned by bots are saying. Vermonters *must* think critically about the objective and danger of this disinformation, and what we'll each have to do to effectively counter it. The operation has captured the ownership and leadership of our social media companies. 
 
 Trump's term began by initiating the yearlong process to withdraw from the WHO. Then, someone took a chainsaw to our global public health initiatives, our counter-intelligence apparatus, and our disease control response infrastructure. They killed the Voice of America, slashed USAID, and critically, they shuttered the State Department's Center for Global Engagement, which was an office to track the spread of disinformation and the origin of news and warn foreign governments about active campaigns in their countries. 
 
