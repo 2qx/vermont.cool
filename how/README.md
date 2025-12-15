@@ -8,8 +8,9 @@ image:
 ---
 
 
-
 ## How will Vermont healthcare workers get vaccinated for smallpox?
+
+November 5th, 2025
 
 <figure>
   <img src="./omicron.jpg" alt="an image of smallpox blisters">
@@ -61,3 +62,5 @@ They might say something to the effect of:
 > The Devil is coming and the thieves are behind him. Look in the road.
 
 The question for Vermont's healthcare professionals is, if the obvious inference from the facts above is true, would they like to get a vaccinated now? Or would they rather *leave it to the Devil* we know?
+
+ac895335f8d6a7d43db59612f85c54613d7d634fb16741064b92a949aade1546
