@@ -14,7 +14,7 @@ November 5th, 2025
 
 <figure>
   <img src="./omicron.jpg" alt="an image of smallpox blisters">
-  <figcaption>University of Vermont ICU on Dec. 2, 2021 (omicron peak) from a VTDigger article ‘There’s just not a light on the horizon’: Vermont hospital staff swamped by record Covid-19 hospitalizations' dated January 18, 2022.</figcaption>
+  <figcaption>University of Vermont ICU on Dec. 2, 2021, from a VTDigger article dated January 18, 2022.</figcaption>
 </figure>
 
 In a September 12th Commentary in the Rutland Herald titled ["Vaccines are value"](https://www.rutlandherald.com/opinion/commentary/schneider-vaccines-are-value/article_76f8f90c-df17-42d7-b3a8-a15ac9165733.html), Dr. David Schneider, a Rutland pediatrician, explained that smallpox vaccinations are no longer recommended or necessary [for children], that the disease was eradicated in the US in 1949 and that "There is no conspiracy".
