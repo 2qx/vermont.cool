@@ -69,6 +69,6 @@ ac895335f8d6a7d43db59612f85c54613d7d634fb16741064b92a949aade1546
 
 [^2]: [Trump Aides Close State Dept. Office on Foreign Disinformation - NY Times April 16, 2025](https://www.nytimes.com/2025/04/16/us/politics/trump-rubio-state-department-foreign-disinformation.html)
 
-[^3]: [“That’s Their Problem”: How Jared Kushner Let the Markets Decide America’s COVID-19 Fate - Vanity Fair Sept 2020](https://www.vanityfair.com/news/2020/09/jared-kushner-let-the-markets-decide-covid-19-fate)
+[^3]: [How Jared Kushner’s Secret Testing Plan “Went Poof Into Thin Air” - Vanity Fair Aug 2020 ](https://www.vanityfair.com/news/2020/07/how-jared-kushners-secret-testing-plan-went-poof-into-thin-air)
 
-[^4]: [How Jared Kushner’s Secret Testing Plan “Went Poof Into Thin Air” - Vanity Fair Aug 2020 ](https://www.vanityfair.com/news/2020/07/how-jared-kushners-secret-testing-plan-went-poof-into-thin-air)
+[^4]: [“That’s Their Problem”: How Jared Kushner Let the Markets Decide America’s COVID-19 Fate - Vanity Fair Sept 2020](https://www.vanityfair.com/news/2020/09/jared-kushner-let-the-markets-decide-covid-19-fate)
