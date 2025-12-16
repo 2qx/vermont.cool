@@ -45,7 +45,7 @@ We are seeing a plan for healthcare that can't be articulated. The vaccines depl
 
 Given the captured state of our media, we may not know what is happening until cases appear in a non-autocratic country.
 
-Social media platforms with personalized feeds are weapons of disinformation with individual level targeting. The AI models can be easily manipulated by anyone with access to the input datasets, which include the internet and AI users. The push to have everyone interact with and trust the output of AI is weird. Trump's autocratic friends are openly discussing using surveillance and profiling to weaponize data against individual Americans. The virus could be just a small part of the plan. 
+Social media platforms with personalized feeds are weapons of disinformation with individual level targeting. The AI models can be easily manipulated by anyone with access to the input datasets, which include the internet and AI users. The push to have everyone interact with and trust the output of AI is weird. Trump's autocratic friends are openly discussing using surveillance and profiling to weaponize data against individual Americans. The virus could be just a small part of the plan. [^7]
 
 We are in a very deadly game. Our smallpox vaccine stockpile had value, and without it, we may lose our country for generations.
 
@@ -76,3 +76,5 @@ ac895335f8d6a7d43db59612f85c54613d7d634fb16741064b92a949aade1546
 [^5]: [“That’s Their Problem”: How Jared Kushner Let the Markets Decide America’s COVID-19 Fate - Vanity Fair, Sept 2020](https://www.vanityfair.com/news/2020/09/jared-kushner-let-the-markets-decide-covid-19-fate)
 
 [^6]: [HHS Website Changes Strategic National Stockpile Definition, Now Fits Kushner's Legally Dubious Description - Law and Crime, April 3rd 2020](https://lawandcrime.com/covid-19-pandemic/hhs-website-changes-definition-of-national-stockpile-just-so-happens-to-reflect-kushners-legally-inaccurate-description/)
+
+[^7]: [Adversaries Increasingly Weaponizing Social Media, Association of the US Army, Aug 2024](https://www.ausa.org/news/adversaries-increasingly-weaponizing-social-media)
