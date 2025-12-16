@@ -10,7 +10,7 @@ image:
 
 ## How will Vermont healthcare workers get vaccinated for smallpox?
 
-November 5th, 2025
+December 15th, 2025
 
 <figure>
   <img src="./omicron.jpg" alt="an image of smallpox blisters">
