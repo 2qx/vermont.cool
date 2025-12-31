@@ -9,6 +9,10 @@ image:
 
 # A Pandemic of Apathy
 
+> Apathy prevailed. Many leaders in the health care field justified this disinterest by saying that technologically the science of producing and dispersing biological agents was beyond the capability of all but the most sophisticated laboratories. The fact that there had been no known incidents since World War II confirmed for them that there was little cause for concern. 
+>
+>  D. A. Henderson,  MD - *Smallpox: The Death of a Disease*
+
 ##  A letter to Vermont's healthcare professionals
 
 November 5th, 2025
