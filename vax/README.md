@@ -1,5 +1,5 @@
 ---
-title: Genocide Watch for North America
+title: GENOCIDE WATCH for North America
 description: Get vaccinated. Watch for aerosolized release of weaponized smallpox.
 date: 2026-01-26
 permalink: /vax/
