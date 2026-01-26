@@ -31,9 +31,7 @@ image:
 - Vaccinate your family.
 - Buy N95 masks.
 - Buy hand sanitizer, antibacterial hand soap, bleach and detergent.
-
- - Wear a mask in high traffic or crowded indoor spaces or outdoor areas at night.
-
- - DO NOT ATTEND large (>1k people) nighttime gatherings.
+- Wear a mask in high traffic or crowded indoor spaces or outdoor areas at night.
+- DO NOT ATTEND large (>1k people) nighttime gatherings.
 
 Have empathy; empathy WILL prevail.
