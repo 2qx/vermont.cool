@@ -22,7 +22,7 @@ image:
 - Undetected initial aerosolized release in a mile radius
 - Secondary airborne spread from infected persons
 - Contaminated surfaces, articles and bedding
-- Bodily contact or contact with the deceased
+- Bodily contact or contact with the sick or deceased
 
 ### PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
