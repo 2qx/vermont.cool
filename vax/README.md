@@ -35,3 +35,5 @@ image:
 Wear a mask in heavily populated areas at night.
 
 DO NOT ATTEND large (>1k people) nighttime gatherings.
+
+Empathy WILL prevail.
