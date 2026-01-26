@@ -7,9 +7,10 @@ image:
 
 Guerrilla public health for ALL Green Mountain folks. 
 
-Alert: 
+Alerts: 
 
-1. [Smallpox fact sheet.](./no-pox/)
+1. [GENOCIDE WATCH for North America](./vax/)
+2. [Smallpox fact sheet.](./no-pox/)
 
 Notices:
 
