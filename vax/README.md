@@ -19,7 +19,7 @@ image:
 
 ### TRANSMISSION PATHWAYS
 
-- Undetected initial aerosolized release in a mile radius.
+- Undetected initial aerosolized release in a mile radius at multiple sites.
 - Secondary airborne spread from infected persons.
 - Contaminated surfaces, articles and bedding.
 - Contact with the sick or deceased.
@@ -32,8 +32,8 @@ image:
 - Buy N95 masks.
 - Buy hand sanitizer, antibacterial hand soap, bleach and detergent.
 
-Wear a mask in high traffic or crowded indoor spaces or outdoor areas at night.
+ - Wear a mask in high traffic or crowded indoor spaces or outdoor areas at night.
 
-DO NOT ATTEND large (>1k people) nighttime gatherings.
+ - DO NOT ATTEND large (>1k people) nighttime gatherings.
 
 Have empathy; empathy WILL prevail.
