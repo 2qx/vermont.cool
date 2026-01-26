@@ -26,7 +26,6 @@ image:
 
 ### PRECAUTIONARY/PREPAREDNESS ACTIONS...
 
-
 - Get the JYNNEOS smallpox vaccine.
 - Vaccinate your family.
 - Buy N95 masks.
