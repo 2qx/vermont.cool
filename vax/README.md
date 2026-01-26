@@ -36,4 +36,4 @@ Wear a mask in high traffic or crowded indoor spaces or outdoor areas at night.
 
 DO NOT ATTEND large (>1k people) nighttime gatherings.
 
-Empathy WILL prevail.
+Have empathy; empathy WILL prevail.
