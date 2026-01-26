@@ -19,7 +19,7 @@ image:
 
 ### TRANSMISSION PATHWAYS
 
-- Initial aerosolized release
+- Undetected initial aerosolized release in a mile radius
 - Secondary airborne spread from infected persons
 - Contaminated surfaces, articles and bedding
 - Bodily contact or contact with the deceased
